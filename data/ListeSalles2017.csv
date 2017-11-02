@@ -1,0 +1,775 @@
+_sep=;
+NomEtablissement;VilleEtablissement;RacineAnalytiqueEtablissement;CodeEtablissement;NomSalle;TailleSalle;CodeSalle
+Etablissement d'Angoulême;La Couronne;AM;3;Fac de Droit 4;;238
+Etablissement d'Angoulême;La Couronne;AM;3;Amphi Jean Monnet;300;444
+Etablissement d'Angoulême;La Couronne;AM;3;Amphi IFSI 1;120;445
+Etablissement d'Angoulême;La Couronne;AM;3;Amphi 300;;424
+Etablissement d'Angoulême;La Couronne;AM;3;Pépinière d'Entreprise;80;583
+Etablissement d'Angoulême;La Couronne;AM;3;Amphi IFSI 2;;701
+Etablissement d'Angoulême;La Couronne;AM;3;IFSI 1;;702
+Etablissement d'Angoulême;La Couronne;AM;3;IFSI 2;;703
+Etablissement d'Angoulême;La Couronne;AM;3;IFSI 3;;704
+Etablissement d'Angoulême;La Couronne;AM;3;Fac de Droit 1;;705
+Etablissement d'Angoulême;La Couronne;AM;3;Fac de Droit 2;;706
+Etablissement d'Angoulême;La Couronne;AM;3;Fac de Droit 3;;707
+Etablissement d'Angoulême;La Couronne;AM;3;Amphi ESMEIN;;708
+Etablissement d'Angoulême;La Couronne;AM;3;A 101;34;831
+Etablissement d'Angoulême;La Couronne;AM;3;A 102;34;832
+Etablissement d'Angoulême;La Couronne;AM;3;A 103;34;833
+Etablissement d'Angoulême;La Couronne;AM;3;A 104;34;834
+Etablissement d'Angoulême;La Couronne;AM;3;A 105;34;835
+Etablissement d'Angoulême;La Couronne;AM;3;A 106;34;836
+Etablissement d'Angoulême;La Couronne;AM;3;A 107;34;837
+Etablissement d'Angoulême;La Couronne;AM;3;A 108;34;838
+Etablissement d'Angoulême;La Couronne;AM;3;A 109;34;839
+Etablissement d'Angoulême;La Couronne;AM;3;A 110;34;840
+Etablissement d'Angoulême;La Couronne;AM;3;A 111;34;841
+Etablissement d'Angoulême;La Couronne;AM;3;Laboratoire Informatique;24;842
+Etablissement d'Angoulême;La Couronne;AM;3;A 113;34;843
+Etablissement d'Angoulême;La Couronne;AM;3;A Salle de conf‚rence;100;844
+Etablissement d'Angoulême;La Couronne;AM;3;A Salle de Réunion;25;845
+Etablissement d'Angoulême;La Couronne;AM;3;A 201;20;846
+Etablissement d'Angoulême;La Couronne;AM;3;A 202;20;847
+Etablissement d'Angoulême;La Couronne;AM;3;A 203;20;848
+Etablissement d'Angoulême;La Couronne;AM;3;Bureau CPTEI/International;20;849
+Etablissement d'Angoulême;La Couronne;AM;3;A 205;20;850
+Etablissement d'Angoulême;La Couronne;AM;3;A 206;20;851
+Etablissement d'Angoulême;La Couronne;AM;3;A 207;20;852
+Etablissement d'Angoulême;La Couronne;AM;3;A 208;20;853
+Etablissement d'Angoulême;La Couronne;AM;3;FAB'LAB 1;20;854
+Etablissement d'Angoulême;La Couronne;AM;3;Salle projets;20;855
+Etablissement d'Angoulême;La Couronne;AM;3;A 211;20;856
+Etablissement d'Angoulême;La Couronne;AM;3;A 212;50;857
+Etablissement d'Angoulême;La Couronne;AM;3;A 213;50;858
+Etablissement d'Angoulême;La Couronne;AM;3;Salle informatique;32;859
+Etablissement d'Angoulême;La Couronne;AM;3;A 215;50;860
+Etablissement d'Angoulême;La Couronne;AM;3;CIFOP;30;787
+Etablissement d'Arras;ARRAS Cedex;AR;4;ARRAS 4B;11;995
+Etablissement d'Arras;ARRAS Cedex;AR;4;ARRAS 15;50;667
+Etablissement d'Arras;ARRAS Cedex;AR;4;ARRAS 14;30;668
+Etablissement d'Arras;ARRAS Cedex;AR;4;ARRAS 13;24;669
+Etablissement d'Arras;ARRAS Cedex;AR;4;ARRAS 12;30;670
+Etablissement d'Arras;ARRAS Cedex;AR;4;ARRAS 11;20;671
+Etablissement d'Arras;ARRAS Cedex;AR;4;ARRAS 10;25;672
+Etablissement d'Arras;ARRAS Cedex;AR;4;ARRAS 23;30;675
+Etablissement d'Arras;ARRAS Cedex;AR;4;ARRAS 22;25;676
+Etablissement d'Arras;ARRAS Cedex;AR;4;ARRAS 21;40;677
+Etablissement d'Arras;ARRAS Cedex;AR;4;ARRAS 20;40;678
+Etablissement d'Arras;ARRAS Cedex;AR;4;ARRAS 24;35;680
+Etablissement d'Arras;ARRAS Cedex;AR;4;ARRAS 25 ;16;681
+Etablissement d'Arras;ARRAS Cedex;AR;4;ARRAS 26;20;69
+Etablissement d'Arras;ARRAS Cedex;AR;4;ARRAS 27;20;70
+Etablissement d'Arras;ARRAS Cedex;AR;4;ARRAS 34;12;71
+Etablissement d'Arras;ARRAS Cedex;AR;4;ARRAS 2;12;72
+Etablissement d'Arras;ARRAS Cedex;AR;4;ARRAS 5;15;73
+Etablissement d'Arras;ARRAS Cedex;AR;4;ARRAS 3  CISCO ;10;74
+Etablissement d'Arras;ARRAS Cedex;AR;4;ARRAS 4;12;76
+Etablissement d'Arras;ARRAS Cedex;AR;4;ARRAS 7;50;77
+Etablissement d'Arras;ARRAS Cedex;AR;4;ARRAS 8;45;78
+Etablissement d'Arras;ARRAS Cedex;AR;4;ARRAS 9;30;79
+Etablissement d'Arras;ARRAS Cedex;AR;4;ARRAS 6;40;80
+Etablissement d'Arras;ARRAS Cedex;AR;4;ARRAS 30;24;81
+Etablissement d'Arras;ARRAS Cedex;AR;4;ARRAS 31;25;82
+Etablissement d'Arras;ARRAS Cedex;AR;4;ARRAS 32;28;83
+Etablissement d'Arras;ARRAS Cedex;AR;4;ARRAS 33;30;84
+Etablissement d'Aix;Aix-en-Provence cedex 04;AX;1;ALIZE;14;85
+Etablissement d'Aix;Aix-en-Provence cedex 04;AX;1;MEDITERRANEE;8;86
+Etablissement d'Aix;Aix-en-Provence cedex 04;AX;1;PEN DUICK;12;87
+Etablissement d'Aix;Aix-en-Provence cedex 04;AX;1;INTREPIDE;18;89
+Etablissement d'Aix;Aix-en-Provence cedex 04;AX;1;CALYPSO;12;91
+Etablissement d'Aix;Aix-en-Provence cedex 04;AX;1;MISTRAL;20;93
+Etablissement d'Aix;Aix-en-Provence cedex 04;AX;1;SIROCCO;24;94
+Etablissement d'Aix;Aix-en-Provence cedex 04;AX;1;SMA 1;15;95
+Etablissement d'Aix;Aix-en-Provence cedex 04;AX;1;TRAMONTANE;18;97
+Etablissement d'Aix;Aix-en-Provence cedex 04;AX;1;ZEPHIR;16;98
+Etablissement d'Aix;Aix-en-Provence cedex 04;AX;1;RAFALE;22;99
+Etablissement d'Aix;Aix-en-Provence cedex 04;AX;1;MOUSSON;16;100
+Etablissement d'Aix;Aix-en-Provence cedex 04;AX;1;LA BAUME;15;595
+Etablissement d'Aix;Aix-en-Provence cedex 04;AX;1;LA FERME;15;596
+Etablissement d'Aix;Aix-en-Provence cedex 04;AX;1;NAUTILUS;15;597
+Etablissement d'Aix;Aix-en-Provence cedex 04;AX;1;EXT 2;15;598
+Etablissement d'Aix;Aix-en-Provence cedex 04;AX;1;Bureau MS ;3;811
+Etablissement d'Aix;Aix-en-Provence cedex 04;AX;1;SMA 2;20;436
+Etablissement d'Aix;Aix-en-Provence cedex 04;AX;1;AURA;30;740
+Etablissement d'Aix;Aix-en-Provence cedex 04;AX;1;TELEMAQUE;15;741
+Etablissement d'Aix;Aix-en-Provence cedex 04;AX;1;ASTROLABE;8;742
+Etablissement d'Aix;Aix-en-Provence cedex 04;AX;1;AUTAN;15;743
+Etablissement de Bordeaux;Bordeaux;BO;6;Ravezies 001;30;1046
+Etablissement de Bordeaux;Bordeaux;BO;6;Ravezies 002;20;1047
+Etablissement de Bordeaux;Bordeaux;BO;6;Ravezies 003;30;1048
+Etablissement de Bordeaux;Bordeaux;BO;6;Ravezies 004;45;1049
+Etablissement de Bordeaux;Bordeaux;BO;6;Ravezies 005;25;1050
+Etablissement de Bordeaux;Bordeaux;BO;6;Ravezies 101;14;1051
+Etablissement de Bordeaux;Bordeaux;BO;6;Ravezies 102;20;1052
+Etablissement de Bordeaux;Bordeaux;BO;6;Ravezies 103;22;1053
+Etablissement de Bordeaux;Bordeaux;BO;6;Ravezies 104;25;1054
+Etablissement de Bordeaux;Bordeaux;BO;6;Ravezies 105;19;1055
+Etablissement de Bordeaux;Bordeaux;BO;6;Ravezies 106;20;1056
+Etablissement de Bordeaux;Bordeaux;BO;6;Ravezies 107;30;1057
+Etablissement de Bordeaux;Bordeaux;BO;6;Ravezies 108;27;1058
+Etablissement de Bordeaux;Bordeaux;BO;6;Ravezies 109;8;1059
+Etablissement de Bordeaux;Bordeaux;BO;6;Ravezies LABO;5;1060
+Etablissement de Bordeaux;Bordeaux;BO;6;Ravezies 201;17;1061
+Etablissement de Bordeaux;Bordeaux;BO;6;Ravezies 202;8;1062
+Etablissement de Bordeaux;Bordeaux;BO;6;Ravezies 203;12;1063
+Etablissement de Bordeaux;Bordeaux;BO;6;Ravezies 204;20;1064
+Etablissement de Bordeaux;Bordeaux;BO;6;Ravezies 205;18;1065
+Etablissement de Bordeaux;Bordeaux;BO;6;Ravezies 206;20;1066
+Etablissement de Bordeaux;Bordeaux;BO;6;Ravezies 207;15;1067
+Etablissement de Bordeaux;Bordeaux;BO;6;Ravezies 208;20;1068
+Etablissement de Bordeaux;Bordeaux;BO;6;Ravezies 209;12;1069
+Etablissement de Bordeaux;Bordeaux;BO;6;Ravezies 210;25;1070
+Etablissement de Bordeaux;Bordeaux;BO;6;Ravezies WORK CAFE;20;1076
+Etablissement de Bordeaux;Bordeaux;BO;6;Externe Ravezies 1;15;1077
+Etablissement de Bordeaux;Bordeaux;BO;6;Externe Ravezies 2;15;1078
+Etablissement de Bordeaux;Bordeaux;BO;6;Externe Ravezies 3;15;1079
+Etablissement de Bordeaux;Bordeaux;BO;6;Externe Ravezies 4;15;1080
+Etablissement de Bordeaux;Bordeaux;BO;6;Externe Ravezies 5;15;1081
+Etablissement de Brest;BREST;BR;39;Fête du Bruit;18;1083
+Etablissement de Brest;BREST;BR;39;Vieilles Charrue;20;1084
+Etablissement de Brest;BREST;BR;39;Bout du monde;20;1085
+Etablissement de Brest;BREST;BR;39;Bureau entretien;4;1086
+Etablissement de Brest;BREST;BR;39;Salle BBS 1;20;1087
+Etablissement de Brest;BREST;BR;39;Salle BBS 2;20;1088
+Direction Générale;Paris;DI;28;Grande salle;30;101
+Direction Générale;Paris;DI;28;Petite salle;20;102
+Direction Générale;Paris;DI;28;Algérie;24;103
+Etablissement de Dijon;DIJON;DJ;40;Salle A;24;909
+Etablissement de Dijon;DIJON;DJ;40;Salle B;20;910
+Etablissement de Dijon;DIJON;DJ;40;Salle C;24;911
+Etablissement de Dijon;DIJON;DJ;40;Salle D;28;935
+Etablissement de Dijon;DIJON;DJ;40;DJ - Location1;20;1034
+Etablissement de Dijon;DIJON;DJ;40;DJ - Location2;20;1035
+Etablissement de Dijon;DIJON;DJ;40;Salle E;15;994
+Etablissement de Grenoble;MEYLAN;GR;9;FAB'LAB 2;;984
+Etablissement de Grenoble;MEYLAN;GR;9;Moucherotte;10;734
+Etablissement de Grenoble;MEYLAN;GR;9;Chamechaude;12;735
+Etablissement de Grenoble;MEYLAN;GR;9;Taillefer;14;736
+Etablissement de Grenoble;MEYLAN;GR;9;Rocher Blanc;8;737
+Etablissement de Grenoble;MEYLAN;GR;9;Mont Aiguille;25;738
+Etablissement de Grenoble;MEYLAN;GR;9;Vercors;19;328
+Etablissement de Grenoble;MEYLAN;GR;9;Chartreuse;19;329
+Etablissement de Grenoble;MEYLAN;GR;9;Belledonne;19;330
+Etablissement du Mans;Le Mans;LM;10;ISMANS - 64;32;721
+Etablissement du Mans;Le Mans;LM;10;ISMANS - 36;20;723
+Etablissement du Mans;Le Mans;LM;10;ISMANS - 35;36;724
+Etablissement du Mans;Le Mans;LM;10;ISMANS - 21a;20;725
+Etablissement du Mans;Le Mans;LM;10;LM - Fondation AMIPI;25;868
+Etablissement du Mans;Le Mans;LM;10;LM - Salle externe;25;869
+Etablissement du Mans;Le Mans;LM;10;ISMANS - 1;85;996
+Etablissement du Mans;Le Mans;LM;10;ISMANS - 2;85;997
+Etablissement du Mans;Le Mans;LM;10;ISMANS - 3;100;998
+Etablissement du Mans;Le Mans;LM;10;ISMANS - 21b;12;999
+Etablissement du Mans;Le Mans;LM;10;ISMANS - 8;12;1001
+Etablissement du Mans;Le Mans;LM;10;ISMANS - 60;10;1002
+Etablissement du Mans;Le Mans;LM;10;ISMANS - 33;69;1003
+Etablissement du Mans;Le Mans;LM;10;ISMANS - 62;32;1006
+Etablissement du Mans;Le Mans;LM;10;ISMANS - 103;30;1008
+Etablissement du Mans;Le Mans;LM;10;ISMANS - 18/19;19;1009
+Etablissement du Mans;Le Mans;LM;10;ISMANS - 55;10;1010
+Etablissement du Mans;Le Mans;LM;10;ISMANS - 56;10;1011
+Etablissement du Mans;Le Mans;LM;10;ISMANS - 59;10;1012
+Etablissement du Mans;Le Mans;LM;10;ISMANS - 70;19;1013
+Etablissement du Mans;Le Mans;LM;10;ISMANS - 102;30;1094
+Etablissement du Mans;Le Mans;LM;10;ISMANS - 63;12;1119
+Etablissement du Mans;Le Mans;LM;10;ISMANS - 65;12;1120
+Etablissement du Mans;Le Mans;LM;10;ISMANS - 76;36;1121
+Etablissement du Mans;Le Mans;LM;10;ISMANS - 71;30;1122
+Etablissement du Mans;Le Mans;LM;10;ISMANS - 75;30;1123
+Etablissement du Mans;Le Mans;LM;10;ISMANS - 42;20;1124
+Etablissement du Mans;Le Mans;LM;10;ISMANS - 9;20;1115
+Etablissement de La Rochelle;LAGORD;LR;42;Cours 1;30;985
+Etablissement de La Rochelle;LAGORD;LR;42;Cours 2;30;986
+Etablissement de La Rochelle;LAGORD;LR;42;Cours 3;30;987
+Etablissement de La Rochelle;LAGORD;LR;42;Cours 4;30;988
+Etablissement de La Rochelle;LAGORD;LR;42;Cours 5;30;989
+Etablissement de La Rochelle;LAGORD;LR;42;Cours 6;30;990
+Etablissement de La Rochelle;LAGORD;LR;42;Cours 7;30;991
+Etablissement de La Rochelle;LAGORD;LR;42;Cours 8;30;992
+Etablissement de La Rochelle;LAGORD;LR;42;Cours 9;30;993
+Etablissement de Lyon;Ecully Cedex;LY;12;AMPHI 341;80;1142
+Etablissement de Lyon;Ecully Cedex;LY;12;AMPHI 347;40;1143
+Etablissement de Lyon;Ecully Cedex;LY;12;AMPHI 348;40;1144
+Etablissement de Lyon;Ecully Cedex;LY;12;S342;19;1145
+Etablissement de Lyon;Ecully Cedex;LY;12;S343;13;1146
+Etablissement de Lyon;Ecully Cedex;LY;12;S344;32;1147
+Etablissement de Lyon;Ecully Cedex;LY;12;S345;16;1148
+Etablissement de Lyon;Ecully Cedex;LY;12;S346;19;1149
+Etablissement de Lyon;Ecully Cedex;LY;12;EXT-ECL1;;744
+Etablissement de Lyon;Ecully Cedex;LY;12;EXT-ECL2;;745
+Etablissement de Lyon;Ecully Cedex;LY;12;EXT-ECL3;;746
+Etablissement de Lyon;Ecully Cedex;LY;12;EXT-LAMACHE;;747
+Etablissement de Lyon;Ecully Cedex;LY;12;EXT-CLIENT1;;748
+Etablissement de Lyon;Ecully Cedex;LY;12;EXT-CLIENT2;;749
+Etablissement de Lyon;Ecully Cedex;LY;12;IDRAC;5;750
+Etablissement de Lyon;Ecully Cedex;LY;12;S129;5;751
+Etablissement de Lyon;Ecully Cedex;LY;12;EXIA 1;12;333
+Etablissement de Lyon;Ecully Cedex;LY;12;EXIA 2;12;334
+Etablissement de Lyon;Ecully Cedex;LY;12;EXIA 3;12;335
+Etablissement de Lyon;Ecully Cedex;LY;12;EXIA 4;12;336
+Etablissement de Lyon;Ecully Cedex;LY;12;EXIA 5;12;337
+Etablissement de Lyon;Ecully Cedex;LY;12;LABO 200A;12;338
+Etablissement de Lyon;Ecully Cedex;LY;12;INFO 200B;25;339
+Etablissement de Lyon;Ecully Cedex;LY;12;SCALE 250;18;340
+Etablissement de Lyon;Ecully Cedex;LY;12;SCALE 201;25;342
+Etablissement de Lyon;Ecully Cedex;LY;12;SCALE 101;28;344
+Etablissement de Lyon;Ecully Cedex;LY;12;INFO PC 103;12;346
+Etablissement de Lyon;Ecully Cedex;LY;12;FABLAB1;10;347
+Etablissement de Lyon;Ecully Cedex;LY;12;SCALE 110;50;348
+Etablissement de Lyon;Ecully Cedex;LY;12;SCALE 111 ;28;349
+Etablissement de Lyon;Ecully Cedex;LY;12;SCALE 121;28;350
+Etablissement de Lyon;Ecully Cedex;LY;12;SCALE 130;50;351
+Etablissement de Lyon;Ecully Cedex;LY;12;INFO 202;12;353
+Etablissement de Lyon;Ecully Cedex;LY;12;INFO 203;12;354
+Etablissement de Lyon;Ecully Cedex;LY;12;INFO 205;25;355
+Etablissement de Lyon;Ecully Cedex;LY;12;SCALE 211;28;356
+Etablissement de Lyon;Ecully Cedex;LY;12;S212;10;357
+Etablissement de Lyon;Ecully Cedex;LY;12;S213;10;358
+Etablissement de Lyon;Ecully Cedex;LY;12;SCALE 215;28;359
+Etablissement de Lyon;Ecully Cedex;LY;12;S221;28;360
+Etablissement de Lyon;Ecully Cedex;LY;12;S225;19;361
+Etablissement de Lyon;Ecully Cedex;LY;12;S231;28;362
+Etablissement de Lyon;Ecully Cedex;LY;12;S113;10;363
+Etablissement de Lyon;Ecully Cedex;LY;12;S114;10;364
+Etablissement de Lyon;Ecully Cedex;LY;12;S122;10;366
+Etablissement de Lyon;Ecully Cedex;LY;12;S123;10;367
+Etablissement de Lyon;Ecully Cedex;LY;12;S124;10;368
+Etablissement de Lyon;Ecully Cedex;LY;12;SCALE 235;19;369
+Etablissement de Montpellier;Montpellier;MO;14;RABELAIS;20;584
+Etablissement de Montpellier;Montpellier;MO;14;MOLIERE;20;585
+Etablissement de Montpellier;Montpellier;MO;14;EIFFEL;26;586
+Etablissement de Montpellier;Montpellier;MO;14;MOULIN;28;587
+Etablissement de Montpellier;Montpellier;MO;14;MAILLOL;20;590
+Etablissement de Montpellier;Montpellier;MO;14;VIOLET LE DUC;20;591
+Etablissement de Montpellier;Montpellier;MO;14;RIQUET;28;274
+Etablissement de Montpellier;Montpellier;MO;14;VAUBAN;56;276
+Etablissement de Montpellier;Montpellier;MO;14;M Entreprise 1;;1014
+Etablissement de Montpellier;Montpellier;MO;14;M Entreprise 2;;1015
+Etablissement de Montpellier;Montpellier;MO;14;M Entreprise 3;;1016
+Etablissement de Montpellier;Montpellier;MO;14;M Entreprise 4;;1017
+Etablissement de Montpellier;Montpellier;MO;14;Novotel 1;;1018
+Etablissement de Montpellier;Montpellier;MO;14;Novotel 2;;1019
+Etablissement de Montpellier;Montpellier;MO;14;Novotel 3;;1020
+Etablissement de Montpellier;Montpellier;MO;14;Novotel 4;;1021
+Etablissement de Montpellier;Montpellier;MO;14;Garosud 1;;1022
+Etablissement de Montpellier;Montpellier;MO;14;Garosud 2;;1023
+Etablissement de Montpellier;Montpellier;MO;14;Garosud 3;;1024
+Etablissement de Montpellier;Montpellier;MO;14;CNAM 1;;1025
+Etablissement de Montpellier;Montpellier;MO;14;CNAM 2;;1026
+Etablissement de Montpellier;Montpellier;MO;14;FRTP;;1027
+Etablissement de Montpellier;Montpellier;MO;14;EUROTEL;;1028
+Etablissement de Montpellier;Montpellier;MO;14;HOTELIO;;1029
+Etablissement de Montpellier;Montpellier;MO;14;X 1;10;917
+Etablissement de Sophia;VALBONNE;NI;38;Basquiat;18;963
+Etablissement de Sophia;VALBONNE;NI;38;Pollock;10;964
+Etablissement de Sophia;VALBONNE;NI;38;Fragonard;12;965
+Etablissement de Sophia;VALBONNE;NI;38;Gauthier;15;966
+Etablissement de Sophia;VALBONNE;NI;38;Klein;13;713
+Etablissement de Sophia;VALBONNE;NI;38;Mondrian;13;714
+Etablissement de Sophia;VALBONNE;NI;38;Chagall;20;715
+Etablissement de Sophia;VALBONNE;NI;38;L‚ger;18;683
+Etablissement de Sophia;VALBONNE;NI;38;Miro;24;684
+Etablissement de Sophia;VALBONNE;NI;38;Picasso;13;685
+Etablissement de Sophia;VALBONNE;NI;38;Kandinsky;13;686
+Etablissement de Sophia;VALBONNE;NI;38;Auguste;12;975
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N3 - # 001 Nikola Tesla;19;1042
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N3 - 002 Frères Lumières;19;1043
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N3 - # 101 Alfred Nobel;19;1044
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N3 - 102 Alan Turing;19;1045
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 131 Dublin;14;1095
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - @ 134 Kowaleski;18;793
+Etablissement de Nanterre;Nanterre Cedex;NR;19;Doucet - B13 (1er étage);30;794
+Etablissement de Nanterre;Nanterre Cedex;NR;19;Doucet - Espace Info 1 (1er étage);36;795
+Etablissement de Nanterre;Nanterre Cedex;NR;19;Doucet - Espace Info 2 (1er étage);27;796
+Etablissement de Nanterre;Nanterre Cedex;NR;19;Doucet - Segpa Info 2 (1er étage);24;797
+Etablissement de Nanterre;Nanterre Cedex;NR;19;Doucet - B20 (2ème étage);23;798
+Etablissement de Nanterre;Nanterre Cedex;NR;19;Doucet - B21 (2ème étage);24;799
+Etablissement de Nanterre;Nanterre Cedex;NR;19;Doucet - B23 (2ème étage);16;800
+Etablissement de Nanterre;Nanterre Cedex;NR;19;Doucet - B28 (2ème étage);40;801
+Etablissement de Nanterre;Nanterre Cedex;NR;19;Doucet - B29 (2ème étage);39;802
+Etablissement de Nanterre;Nanterre Cedex;NR;19;Doucet - Espace multim‚dia (2ème étage);30;803
+Etablissement de Nanterre;Nanterre Cedex;NR;19;Doucet - B37 (3ème étage);39;950
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - # FABLAB;18;830
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - @ 046 Curie;22;809
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - @ 044 Poncelet;17;810
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 023 Pasteur;10;600
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 021 Pythagore;10;601
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 008 Edison;12;602
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 028 Arago;10;603
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 029 Descartes;14;604
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 031 Galil‚e;10;605
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 039 Thalès;11;606
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 201 Andromède;41;607
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 202 Pers‚e;41;608
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 204 Orion;41;609
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 030 Lavoisier;41;136
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 036 Newton;43;137
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 026 Poincar‚;41;138
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 027 Volta;20;139
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 121 Barcelone;28;140
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 117 Liverpool;47;141
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - @ 129 Agn‚si;40;142
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 122 Bruxelles;21;143
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 116 Franckfort;25;144
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 127 Stockholm;21;145
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 125 Rome;41;146
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 110 Athènes;22;147
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 108 Berlin;49;148
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 102 Dusseldorf;45;149
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - @ 140 Paris;40;150
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 128 Manchester;22;151
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 120 Birmingham;21;152
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 130 Cologne;21;153
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 009 Vienne;12;154
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 124 Helsinki;21;155
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - @ 106 Laboratoire Cisco;25;158
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 103 Hambourg;41;159
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 105 Madrid;41;160
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 118 Londres;47;161
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - @ 135 Byron;20;163
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - @ 139 Germain;40;164
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 107 Marseille;42;166
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 020 Laboratoire de langue;21;167
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - @ 119 Sommerville;40;168
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 123 Newcastle;28;169
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 113 Lyon;41;170
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 002 Einstein;276;171
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 032 Bernouilli;12;172
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 101 Bordeaux;41;173
+Etablissement de Nanterre;Nanterre Cedex;NR;19;N1 - 019 CRI;50;179
+Etablissement de Nantes;Nantes cedex 03;NT;16;Salle 201;14;871
+Etablissement de Nantes;Nantes cedex 03;NT;16;Salle 202;18;872
+Etablissement de Nantes;Nantes cedex 03;NT;16;Salle 203;16;873
+Etablissement de Nantes;Nantes cedex 03;NT;16;Salle 205;14;874
+Etablissement de Nantes;Nantes cedex 03;NT;16;Salle 206;14;875
+Etablissement de Nantes;Nantes cedex 03;NT;16;Salle 207;14;876
+Etablissement de Nantes;Nantes cedex 03;NT;16;Salle 208;12;877
+Etablissement de Nantes;Nantes cedex 03;NT;16;Salle 209;14;878
+Etablissement de Nantes;Nantes cedex 03;NT;16;Salle 211;14;879
+Etablissement de Nantes;Nantes cedex 03;NT;16;Salle 212;24;880
+Etablissement de Nantes;Nantes cedex 03;NT;16;Salle 213;30;881
+Etablissement de Nantes;Nantes cedex 03;NT;16;Salle Informatique 204;26;882
+Etablissement de Nantes;Nantes cedex 03;NT;16;Salle 210;15;883
+Etablissement de Nantes;Nantes cedex 03;NT;16;Box 114;4;884
+Etablissement de Nantes;Nantes cedex 03;NT;16;Box 115;3;885
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;NY TP;5;791
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;401;22;861
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;402;22;862
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;403;26;863
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;404;16;864
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;C 30;18;726
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;C 31;18;727
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;C 32;24;728
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;NY VIDEO P n°11;;711
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;C 33;10;828
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;C 34;10;829
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;405NY;5;870
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;NY - Location1;20;1030
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;NY - Location2;20;1031
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;NY - Location3;20;1032
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;NY - Location4;20;1033
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;NY ScaleUp4;21;180
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;NY ScaleUp2;36;181
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;NY INFO;32;182
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;NY ScaleUp3;48;183
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;NY FabLab;18;184
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;NY C11;50;185
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;NY C10;80;186
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;C 20;16;187
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;C 21;28;188
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;C 22;22;189
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;C 23;16;190
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;C 24;8;191
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;C 25;8;192
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;C 26;18;193
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;NY VIDEO P n°2;;196
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;NY VIDEO P n°1;;199
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;NY C18;28;614
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;C 27;14;539
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;C 28;16;540
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;C 29;14;541
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;NY VIDEO P n° 9;;558
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;NY VIDEO P n° 10;;559
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;NY Vidéo-P 3;;412
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;NY VIDEO P n° 4;;464
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;NY VIDEO P n° 5;;465
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;NY VIDEO P n° 6;;466
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;NY C16;24;481
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;NY C15;24;483
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;NY C14;18;485
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;NY VIDEO P n° 7;;509
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;NY VIDEO P n° 8;;528
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;Stan Emile Gall‚;20;1096
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;Stan 101;20;1097
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;Stan 102;34;1098
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;Stan 103;20;1099
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;Stan 104;20;1100
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;A001;19;1125
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;A002;40;1126
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;A105;15;1127
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;A106;14;1128
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;A107 Réunions;14;1129
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;A109;26;1130
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;A110;18;1131
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;A111;10;1132
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;B005;20;1133
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;B006;26;1134
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;B102;20;1135
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;B103;20;1136
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;B107;24;1137
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;NY ScaleUp1;36;908
+Etablissement de Nancy;Villers-lès-Nancy;NY;15;C35 Réunion;10;1041
+Etablissement d'Orléans;ORLEANS;OR;17;Bureau 4;10;916
+Etablissement d'Orléans;ORLEANS;OR;17;001 Socrate;18;887
+Etablissement d'Orléans;ORLEANS;OR;17;002 Platon;39;888
+Etablissement d'Orléans;ORLEANS;OR;17;003 Aristote;14;889
+Etablissement d'Orléans;ORLEANS;OR;17;004 Archimède;18;890
+Etablissement d'Orléans;ORLEANS;OR;17;005 Euclide;14;891
+Etablissement d'Orléans;ORLEANS;OR;17;006 Osmium;27;892
+Etablissement d'Orléans;ORLEANS;OR;17;007 Nickel;21;893
+Etablissement d'Orléans;ORLEANS;OR;17;008 Cesium;18;894
+Etablissement d'Orléans;ORLEANS;OR;17;009 Mercure;18;895
+Etablissement d'Orléans;ORLEANS;OR;17;010 Silicium;23;896
+Etablissement d'Orléans;ORLEANS;OR;17;011 Platine;20;897
+Etablissement d'Orléans;ORLEANS;OR;17;012 Uranium;24;898
+Etablissement d'Orléans;ORLEANS;OR;17;014 Alan Turing;14;899
+Etablissement d'Orléans;ORLEANS;OR;17;015 Maurice Frechet;27;900
+Etablissement d'Orléans;ORLEANS;OR;17;016 Edsger Dijkstra;9;901
+Etablissement d'Orléans;ORLEANS;OR;17;017 Grace Hopper;14;902
+Etablissement d'Orléans;ORLEANS;OR;17;018 BDE;14;903
+Etablissement de Pau Orbigny;Pau;PO;32;Cit‚ Multim‚dia - SALLE GAMMA;15;904
+Etablissement de Pau Orbigny;Pau;PO;32;Cit‚ Multim‚dia - SALLE KAPPA;15;905
+Etablissement de Pau Orbigny;Pau;PO;32;ESAT - SALLE CANNELLE;10;906
+Etablissement de Pau Orbigny;Pau;PO;32;ESAT - SALLE MELBA;10;907
+Etablissement de Pau Orbigny;Pau;PO;32;Sirius;8;812
+Etablissement de Pau Assat ASSO;Assat;PO;34;Salle CFAI 1;10;757
+Etablissement de Pau Assat ASSO;Assat;PO;34;Salle CFAI 2;20;758
+Etablissement de Pau Assat ASSO;Assat;PO;34;Salle CFAI 3;4;759
+Etablissement de Pau Assat ASSO;Assat;PO;34;Salle CFAI 4;20;760
+Etablissement de Pau Assat ASSO;Assat;PO;34;Salle CFAI 5;16;761
+Etablissement de Pau Assat ASSO;Assat;PO;34;Salle CFAI 6;6;762
+Etablissement de Pau Assat ASSO;Assat;PO;34;Salle CFAI 7;8;763
+Etablissement de Pau Assat ASSO;Assat;PO;34;Salle CFAI 15;20;764
+Etablissement de Pau Assat ASSO;Assat;PO;34;Salle CFAI 16;10;765
+Etablissement de Pau Assat ASSO;Assat;PO;34;Salle CFAI 17;20;766
+Etablissement de Pau Assat ASSO;Assat;PO;34;Salle CFAI 18;20;767
+Etablissement de Pau Assat ASSO;Assat;PO;34;Salle CFAI 19;20;768
+Etablissement de Pau Assat ASSO;Assat;PO;34;Salle CFAI 20;20;769
+Etablissement de Pau Assat ASSO;Assat;PO;34;Salle CFAI IFTI PRODUCTIQUE;10;770
+Etablissement de Pau Assat ASSO;Assat;PO;34;Salle CFAI INFORMATIQUE INDUSTRIELLE;10;771
+Etablissement de Pau Assat ASSO;Assat;PO;34;Salle CFAI DE REUNION;20;772
+Etablissement de Pau Assat ASSO;Assat;PO;34;ENIT 1;20;467
+Etablissement de Pau Assat ASSO;Assat;PO;34;ENIT 2;20;468
+Etablissement de Pau Assat ASSO;Assat;PO;34;ENIT 3;20;469
+Etablissement de Pau Assat ASSO;Assat;PO;34;ENIT;;419
+Etablissement de Pau Orbigny;Pau;PO;32;Salle Titan;20;449
+Etablissement de Pau Orbigny;Pau;PO;32;Salle Mars;40;450
+Etablissement de Pau Orbigny;Pau;PO;32;Salle Jupiter;40;451
+Etablissement de Pau Orbigny;Pau;PO;32;Salle Saturne;40;452
+Etablissement de Pau Orbigny;Pau;PO;32;Neptune;20;453
+Etablissement de Pau Orbigny;Pau;PO;32;Salle Cassiop‚e;20;644
+Etablissement de Pau Orbigny;Pau;PO;32;Salle Orion;20;645
+Etablissement de Pau Orbigny;Pau;PO;32;Salle Pégase;20;646
+Etablissement de Pau Orbigny;Pau;PO;32;Salle Pluton;20;647
+Etablissement de Pau Orbigny;Pau;PO;32;Salle Venus;20;648
+Etablissement de Pau Orbigny;Pau;PO;32;Salle Asso;;649
+Etablissement de Pau Assat ASSO;Assat;PO;34;Salle 9;34;650
+Etablissement de Pau Assat ASSO;Assat;PO;34;Salle 10;34;651
+Etablissement de Pau Assat ASSO;Assat;PO;34;Salle 11;34;652
+Etablissement de Pau Assat ASSO;Assat;PO;34;Salle 12;34;653
+Etablissement de Pau Assat ASSO;Assat;PO;34;Salle 13;34;654
+Etablissement de Pau Assat ASSO;Assat;PO;34;Salle 14;34;655
+Etablissement de Pau Assat ASSO;Assat;PO;34;Amphi;200;658
+Etablissement de Pau Assat ASSO;Assat;PO;34;Salle Galil‚e;20;659
+Etablissement de Pau Assat ASSO;Assat;PO;34;Salle Vinci;20;660
+Etablissement de Pau Assat ASSO;Assat;PO;34;Salle Newton;20;661
+Etablissement de Pau Assat ASSO;Assat;PO;34;Salle Archimède;20;662
+Etablissement de Pau Assat ASSO;Assat;PO;34;Salle Wright;20;663
+Etablissement de Reims;REIMS;RE;20;RE S101 - BAN;16;202
+Etablissement de Reims;REIMS;RE;20;RE S103 - BAN;16;204
+Etablissement de Reims;REIMS;RE;20;RE S104 - BAN;16;205
+Etablissement de Reims;REIMS;RE;20;RE S105 - BAN;16;206
+Etablissement de Reims;REIMS;RE;20;RE S106 - MIXTE BUR/BAN;16;773
+Etablissement de Reims;REIMS;RE;20;RE S107 - MIXTE INFO/BAN;16;774
+Etablissement de Reims;REIMS;RE;20;RE S111 - INF;20;775
+Etablissement de Reims;REIMS;RE;20;RE S112 - INF;20;776
+Etablissement de Reims;REIMS;RE;20;ESPACE PAUSE;8;778
+Etablissement de Reims;REIMS;RE;20;RE S108 - BAN;10;779
+Etablissement de Reims;REIMS;RE;20;RE S109 - BAN;30;780
+Etablissement de Reims;REIMS;RE;20;RE S110 - BAN;30;781
+Etablissement de Reims;REIMS;RE;20;RE S113 - MIXTE BUR/BAN;16;782
+Etablissement de Reims;REIMS;RE;20;RE S102 - BAN;16;463
+Etablissement de Reims;REIMS;RE;20;RE S201 - BAN;30;969
+Etablissement de Reims;REIMS;RE;20;RE S202 - BAN;30;970
+Etablissement de Reims;REIMS;RE;20;RE S203 - FABLAB;16;971
+Etablissement de Reims;REIMS;RE;20;RE S100 - BAN/REUNION - STANLEY;10;972
+Etablissement de Reims;REIMS;RE;20;RE S114 - BOX;6;973
+Etablissement de Reims;REIMS;RE;20;RE S204 - BOX;6;974
+Etablissement de Rennes;CESSON SEVIGNE;RN;37;Cornouaille;20;753
+Etablissement de Rennes;CESSON SEVIGNE;RN;37;Trégor;10;754
+Etablissement de Rennes;CESSON SEVIGNE;RN;37;Léon;12;755
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;IUT St-Naz - salle TP 1;15;709
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;IUT St-Naz - salle TP 2;15;710
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;Polytech salle 327;30;732
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;Polytech salle 317 ;30;733
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;Universit‚ salle 236;28;967
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;Niveau 1 salle Club Océanis petit salon;18;968
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;Audencia-amphi;24;824
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;Audencia salle 2;20;825
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;416;5;1082
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;411;34;396
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;409;19;397
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;417-Fablab;;398
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;418-A2P2;32;399
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;408;15;400
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;419;24;401
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;406;33;402
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;412;40;403
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;415-A2P2;13;404
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;Université salle 234;25;577
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;Polytech salle 315;30;578
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;Amphi A;160;579
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;Amphi B;210;580
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;Amphi C;300;581
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;Amphi D;500;582
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;413-A2P2;26;470
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;405 a;20;499
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;410;17;500
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;414-A2P2;25;501
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;513;16;503
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;503 - Salle 503;10;515
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;504 - Salle 504;6;516
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;505 - Salle 505;6;517
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;506 - Salle 506;6;518
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;507 - Salle 507;10;519
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;510 - Salle 510;10;522
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;511a - Salle 511a;6;523
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;511b - Salle 511b;6;524
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;512 - Salle 512;6;525
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;515 - Salle 515;13;527
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;Universit‚ salle 110;30;976
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;Universit‚ salle 113;30;977
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;Universit‚ salle 121;30;978
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;Polytech salle 329;14;979
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;Extérieur;;980
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;IFSI salle D 2ème étage;30;1036
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;IFSI salle Mahdia 1er étage;30;1037
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;IFSI salle Santander 2ème étage;30;1038
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;IFSI Saint-Hubert RDC;30;1039
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;IFSI Salle Martin 2ème étage;30;1040
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;509;10;1141
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;Audencia salle 3;15;949
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;405 b;48;1150
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;422-CNAM;;1151
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;514;14;1152
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;IFSI salle FATICK;30;1153
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;Niveau 1 salle Club Océanis grand salon;40;1154
+Etablissement de Saint-Nazaire;SAINT-NAZAIRE Cedex;SN;22;Polytech Amphi 341;90;1155
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST D 602;24;1089
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST D 603;24;1090
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST D 604;24;1091
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST D 605;36;1092
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST DBOX 403;;982
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST DBOX 503;;983
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST CB S002;32;474
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST E S104;15;476
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST E S106;14;477
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST E S107;15;478
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST E S108;14;479
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST E S204;10;461
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST E S206;12;462
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST Video 10 Exia;;682
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST CI S101;18;565
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST CI S203;18;566
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST Vidéo 5;;567
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST Vidéo 6;;568
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST Vidéo 7 Exia;;569
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST Vidéo 8 Exia;;570
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST Vidéo 9 Exia;;571
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST TELE 1;;572
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST TELE 2;;573
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST Vidéo 2;;411
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST CB S105;18;211
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST CB S205;23;212
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST CI S102;24;213
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST E S004;10;214
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST E S103;17;215
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST CI S202;24;216
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST CB S001;32;217
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST E S207;11;220
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST extérieur 1;;221
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST extérieur 2;;222
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST S006;6;223
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST Vidéo 1;;224
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST Vidéo 4;;225
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST VCamescope;;226
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST CDI;;813
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST Vidéo 10;;814
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST Vidéo 11;;815
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST Vidéo 12;;816
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST Vidéo 13;;817
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST D 402;24;955
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST D 403;32;956
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST D I 404;24;957
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST D 405 FAB LAB;;958
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST D 601;;959
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST D 401;;913
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST A S301;24;788
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST A S302;16;789
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST A S303;32;790
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST Vidéo 3;;538
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST Video 7;;700
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST LABO1;;729
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST LABO2;;730
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST LABO3;;731
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST Video 8;;783
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST Video 9;;784
+Etablissement de Strasbourg;LINGOLSHEIM CEDEX;ST;23;ST Video 10;;785
+Etablissement de Toulouse;Labège;TL;25;214 Hôtel 14;;717
+Etablissement de Toulouse;Labège;TL;25;215 Hôtel 15;;718
+Etablissement de Toulouse;Labège;TL;25;216 Hôtel 16;;719
+Etablissement de Toulouse;Labège;TL;25;217 Hôtel 17;;720
+Etablissement de Toulouse;Labège;TL;25;207 Hôtel 7 (salle informatique);;542
+Etablissement de Toulouse;Labège;TL;25;208 Hôtel 8 (salle informatique);;543
+Etablissement de Toulouse;Labège;TL;25;209 Hôtel 9 (salle classique);;544
+Etablissement de Toulouse;Labège;TL;25;211 Hôtel 11;;664
+Etablissement de Toulouse;Labège;TL;25;212 Hôtel 12;;665
+Etablissement de Toulouse;Labège;TL;25;213 Hôtel 13;;666
+Etablissement de Toulouse;Labège;TL;25;102 Suez;19;432
+Etablissement de Toulouse;Labège;TL;25;101 Bering;19;433
+Etablissement de Toulouse;Labège;TL;25;009 Atlas;5;435
+Etablissement de Toulouse;Labège;TL;25;012 Ushuiaa ;10;456
+Etablissement de Toulouse;Labège;TL;25;106 Magellan ;6;457
+Etablissement de Toulouse;Labège;TL;25;023 Hélios ;32;283
+Etablissement de Toulouse;Labège;TL;25;022 Phoeb‚ ;32;284
+Etablissement de Toulouse;Labège;TL;25;026 Rhéa ;10;285
+Etablissement de Toulouse;Labège;TL;25;001 Thésée ;46;286
+Etablissement de Toulouse;Labège;TL;25;002 Athena ;36;287
+Etablissement de Toulouse;Labège;TL;25;020 Prométhée ;32;288
+Etablissement de Toulouse;Labège;TL;25;021 Orphée ;32;289
+Etablissement de Toulouse;Labège;TL;25;024 Déméter ;14;290
+Etablissement de Toulouse;Labège;TL;25;008 Héméra ;12;291
+Etablissement de Toulouse;Labège;TL;25;004 Poseïdon ;32;292
+Etablissement de Toulouse;Labège;TL;25;003 Eole ;36;293
+Etablissement de Toulouse;Labège;TL;25;011 Gaîa ;32;294
+Etablissement de Toulouse;Labège;TL;25;010 Ouranos ;32;295
+Etablissement de Toulouse;Labège;TL;25;025 Hespérides 2;14;296
+Etablissement de Toulouse;Labège;TL;25;007 Hespérides 1;12;297
+Etablissement de Toulouse;Labège;TL;25;005 Pléïades 1 ;26;298
+Etablissement de Toulouse;Labège;TL;25;006 Pléïades 2 ;26;299
+Etablissement de Toulouse;Labège;TL;25;105 Gibraltar;8;300
+Etablissement de Toulouse;Labège;TL;25;103 Panama ;14;301
+Etablissement de Toulouse;Labège;TL;25;013 Keres ;6;305
+Etablissement de Toulouse;Labège;TL;25;201 Hôtel 1;;529
+Etablissement de Toulouse;Labège;TL;25;210 Hôtel 10 (salle informatique);;530
+Etablissement de Toulouse;Labège;TL;25;202 Hôtel 2;;531
+Etablissement de Toulouse;Labège;TL;25;203 Hôtel 3;;532
+Etablissement de Toulouse;Labège;TL;25;204 Hôtel 4;;533
+Etablissement de Toulouse;Labège;TL;25;205 Hôtel 5;;534
+Etablissement de Toulouse;Labège;TL;25;206 Hôtel 6 (salle informatique);;535
+Etablissement de Toulouse;Labège;TL;25;301 Acapulco;120;1101
+Etablissement de Toulouse;Labège;TL;25;302 Bamako;12;1102
+Etablissement de Toulouse;Labège;TL;25;303 Belem;20;1103
+Etablissement de Toulouse;Labège;TL;25;304 Carthage;25;1104
+Etablissement de Toulouse;Labège;TL;25;305 Honolulu;20;1105
+Etablissement de Toulouse;Labège;TL;25;306 La Havane;12;1106
+Etablissement de Toulouse;Labège;TL;25;307 Louxor;40;1107
+Etablissement de Toulouse;Labège;TL;25;308 Nouméa;15;1108
+Etablissement de Toulouse;Labège;TL;25;309 Persepolis;25;1109
+Etablissement de Toulouse;Labège;TL;25;310 Bonifacio;20;1110
+Etablissement de Toulouse;Labège;TL;25;311Cadix;24;1111
+Etablissement de Toulouse;Labège;TL;25;312 Hanoï;20;1112
+Etablissement de Toulouse;Labège;TL;25;313 Petra;20;1113
+Etablissement de Toulouse;Labège;TL;25;314 Syracuse;40;1114
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;location ext 8;;1138
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;location ext 9;;1139
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;résa - ESPE 4;30;1140
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;E018B exia -Marconi;10;981
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;résa - NWS 1;24;1116
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;résa - NWS 2;24;1117
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;résa - NWS 3;24;1118
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;Hôtel CAEN 2;;495
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;location ext 6;;496
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;location ext 7;;497
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;RUF102-recherche;36;498
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;location ext 1;;545
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;location ext 2;;546
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;location ext 3;;547
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;location ext 4;;548
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;location ext 5;;549
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;E005-Marconi;32;10
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;E006-Marconi;32;11
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;E008-Marconi;36;13
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;E009-Marconi;24;14
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;E011-Marconi;14;16
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;E013 exia - Marconi;20;18
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;E014-Marconi;8;19
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;E016-Marconi;24;21
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;E017-Marconi;24;22
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;E018A exia -Marconi;10;23
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;E019-Marconi;14;25
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;E022A-Marconi;30;28
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;E022B-Marconi;30;29
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;E024-Marconi;34;30
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;E105 AP -Marconi;32;36
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;E106-Marconi;30;37
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;E107 ABD -Marconi;16;38
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;E109-Marconi;9;40
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;E110-Marconi;30;41
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;E111-Marconi;8;42
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;E112-Marconi;8;43
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;E113-Marconi;8;44
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;E114 WEB -Marconi;26;45
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;E115 Exia-Marconi;19;46
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;E116 Exia-Marconi;20;47
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;E118-Marconi;8;49
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;E120A exia-Marconi;18;51
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;E120B exia-Marconi;18;52
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;E121A exia -Marconi;11;53
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;Régie;;55
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;Amphithéatre;200;56
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;Le bocal;15;57
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;Mezzanine;;58
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;dans l'entreprise 1;;63
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;dans l'entreprise 2;;64
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;dans l'entreprise 3;;65
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;Hôtel CAEN 1;;66
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;E007 CISCO-Marconi;;716
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;W01-Sakharov;30;687
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;W04-Sakharov;16;688
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;W08-Sakharov;16;689
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;W16-Sakharov;32;691
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;W02-Sakharov;22;692
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;W03-Sakharov;15;693
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;W05-Sakharov;8;694
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;W12-Sakharov;48;696
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;W13-Sakharov;48;697
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;W15-Sakharov;10;698
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;W21-Sakharov;18;699
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;E015-Marconi;8;792
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;E001-Marconi;12;808
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;E004 - Marconi;8;886
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;RUF01-recherche;36;865
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;RUF02-recherche;32;866
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;RUF101-recherche;30;914
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;RUF05-recherche;6;915
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;RUF03-recherche;8;931
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;W09 -Sakharov;24;932
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;W11-Sakharov;8;933
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;RUF04-recherche;11;934
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;résa - ESPE 1;30;937
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;résa - ESPE 2;30;938
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;résa - ESPE 3;30;939
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;résa - Campanile;25;940
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;résa - F.F.B. salle 10;18;941
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;résa - F.F.B. salle 6;28;942
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;résa - F.F.B. salle 7;20;943
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;résa - CAPEB;15;944
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;RUF103 - recherche;24;945
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;résa- FFB salle 12;20;946
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;résa - LINUS;30;947
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;résa -espace Moineau;30;948
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;E021 exia - Marconi;14;960
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;E117 exia - Marconi;14;961
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;E119 exia - Marconi;14;962
+Etablissement de Mont St Aignan;MONT SAINT AIGNAN CEDEX;VA;13;E121B exia -Marconi;11;912
