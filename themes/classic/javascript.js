@@ -3,16 +3,19 @@ var planningHeight = 0;
 var move = -1;
 var currentValue = 0;
 
+var viewport = null;
+
 /**
  * Startup code
  */
 $(function () {
-	$('#viewport').css('height', ($(window).height() - 130) + 'px');
+	window["viewport"] = $('#viewport');
+	viewport.css('height', ($(window).height() - 130) + 'px');
 	reloadData();
 });
 
 $(window).resize(function () {
-	$('#viewport').css('height', ($(window).height() - 130) + 'px');
+	viewport.css('height', ($(window).height() - 130) + 'px');
 });
 
 function sleep(sleepDuration){
@@ -32,7 +35,7 @@ function reloadData() {
 			$('#error').hide();
 			var table = $('#table-body');
 			table.html('');
-			data.data.forEach(function (item) {
+			data['data'].forEach(function (item) {
 				var tr = document.createElement('tr');
 				var td1 = document.createElement('td');
 				td1.textContent = item['NomSession'];
@@ -65,9 +68,9 @@ function reloadData() {
  */
 setInterval(function () {
 	
-	//var currentValue = $('#viewport').scrollTop();
-	
-	console.log(currentValue + "/" + planningHeight);
+	if (viewport == null) return;
+	if (planningHeight <= viewport.height()) return;
+	//console.log(currentValue + "/" + planningHeight);
 	
 	if (currentValue > planningHeight || currentValue <= 0) {
 		sleep(5000);
@@ -76,7 +79,7 @@ setInterval(function () {
 	
 	currentValue += move;
 
-	$('#viewport').scrollTop(currentValue);
+	viewport.scrollTop(currentValue);
 	
 }, 20);
 

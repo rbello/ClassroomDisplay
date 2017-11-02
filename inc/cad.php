@@ -75,7 +75,14 @@ class CSVDataReader implements CAD {
 
 	public function getProfileBookings($profile, $date) {
 		$data = $this->getEtablissementBookings($profile['codeEtablissement'], $date);
-		return $data;
+		$rooms = explode(' ', $profile['salles']);
+		$result = array();
+		foreach ($data as $key => $item) {
+			if (in_array("{$item['CodeSalle']}", $rooms)) {
+				$result[] = $item;
+			}
+		}
+		return $result;
 	}
 
 	private static function parseCsvFile($path) {
