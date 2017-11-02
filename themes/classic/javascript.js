@@ -1,6 +1,7 @@
 
 var planningHeight = 0;
 var move = -1;
+var currentValue = 0;
 
 /**
  * Startup code
@@ -50,7 +51,7 @@ function reloadData() {
 				tr.appendChild(td5);
 				table.append(tr);
 			});
-			planningHeight = $('#viewport').height();
+			planningHeight = $('#table-body').height() - $('#viewport').height();
 			$('#loading').hide();
 		},
 		error: function () {
@@ -64,7 +65,7 @@ function reloadData() {
  */
 setInterval(function () {
 	
-	var currentValue = $('#viewport').scrollTop();
+	//var currentValue = $('#viewport').scrollTop();
 	
 	console.log(currentValue + "/" + planningHeight);
 	
@@ -77,7 +78,7 @@ setInterval(function () {
 
 	$('#viewport').scrollTop(currentValue);
 	
-}, 50);
+}, 15);
 
 /**
  * Update clock (legacy code)
