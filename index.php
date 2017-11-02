@@ -2,6 +2,22 @@
 
 include 'inc/init.php';
 
+// No profile, display an information page
+if (!array_key_exists('profile', $_GET)) {
+	include 'inc/welcome.html';
+	return;
+}
+
+// Extract profile name
+$profileFile = 'config/' . str_replace('.', '', $_GET['profile']) . '.profile.php';
+if (!file_exists($profileFile)) {
+	$_ERROR = 'Profile non configuré';
+	include 'inc/error.html';
+	return;
+}
+
+$_PROFILE = include $profileFile;
+
 include 'themes/' . $_CONFIG['theme'] . '/index.php';
 
 return;
