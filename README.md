@@ -10,18 +10,25 @@ La configuration de l'afficheur se fait au travers d'un fichier de configuration
 
 Ensuite, l'afficheur utilise un système de **profile** pour configurer les salles qui doivent être affichées. Dans le répertoire `config`, un fichier `default.profile.php` est déjà présent. Il faut ici encore le dupliquer mais le nommage va dépendre du profile qui sera créé. Par exemple, nous allons créer ici le profile `Toulouse` : le fichier dupliqué devra donc porter le nom `Toulouse.profile.php`.
 
+Le fichier doit être complété avec les éléments suivants :
+- Le nom de l'établissement, qui sera affiché sur la page d'accueil
+- La racine du code analytique de l'établissement
+- La liste des numéros (ID) de salles à afficher
+
+Voici un exemple de fichier :
+
 ```
 return array(
-    'nomEtablissement' => "Toulouse Omega",
+    'nomEtablissement' => "Toulouse - Bâtiment Omega",
     'codeEtablissement' => "TL",
     'salles' => '1101 1102 1103 1104 1105 1106 1107 1108 1109 1110 1111 1112 1113 1114'
 );
 ```
 
+La liste des salles et leurs IDs peut être obtenue grâce à la page `/rooms.php`
+
 ## Utilisation
 
-Entrer l'URL suivante : `http://mon-serveur/<Profile>` (sans le slash final)
+Affichage des réservations pour un profile donné : `http://mon-serveur/<Profile>` (sans le slash final)
 
-L'affichage apparaît automatiquement si le fichier de configuration est bien paramétré. Si non, un message d'erreur apparaît.
-
-Le serveur utilise une API REST renvoyant du JSON qui s'utilise de cette manière :
+Affichage des publicités : `http://mon-serveur/pub/<Profile>`
