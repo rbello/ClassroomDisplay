@@ -1,0 +1,252 @@
+﻿<NewDataSet>
+  <Table>
+    <Salle>CNAM 2</Salle>
+    <CodeSalle>1026</CodeSalle>
+    <Date>26/10/2017</Date>
+    <Debut>08:30</Debut>
+    <Fin>12:30</Fin>
+    <Session>FIP A BTP 15-18 Montpellier</Session>
+    <Groupe>110486</Groupe>
+    <Matiere>Travail de groupe</Matiere>
+  </Table>
+  <Table>
+    <Salle>Novotel 2</Salle>
+    <CodeSalle>1019</CodeSalle>
+    <Date>26/10/2017</Date>
+    <Debut>08:30</Debut>
+    <Fin>12:30</Fin>
+    <Session>FIP A BTP 16-19 Montpellier</Session>
+    <Groupe>121476</Groupe>
+    <Matiere>Anglais</Matiere>
+    <Intervenant>WILSON Valerie</Intervenant>
+  </Table>
+  <Table>
+    <Salle>Novotel 2</Salle>
+    <CodeSalle>1019</CodeSalle>
+    <Date>26/10/2017</Date>
+    <Debut>13:30</Debut>
+    <Fin>17:30</Fin>
+    <Session>FIP A BTP 16-19 Montpellier</Session>
+    <Groupe>121476</Groupe>
+    <Matiere>Anglais</Matiere>
+    <Intervenant>WILSON Valerie</Intervenant>
+  </Table>
+  <Table>
+    <Salle>Novotel 4</Salle>
+    <CodeSalle>1021</CodeSalle>
+    <Date>26/10/2017</Date>
+    <Debut>08:30</Debut>
+    <Fin>12:30</Fin>
+    <Session>FIP A BTP 16-19 Montpellier</Session>
+    <Groupe>121477</Groupe>
+    <Matiere>Anglais</Matiere>
+    <Intervenant>GILHOOLY Aidan</Intervenant>
+  </Table>
+  <Table>
+    <Salle>Novotel 4</Salle>
+    <CodeSalle>1021</CodeSalle>
+    <Date>26/10/2017</Date>
+    <Debut>13:30</Debut>
+    <Fin>17:30</Fin>
+    <Session>FIP A BTP 16-19 Montpellier</Session>
+    <Groupe>121477</Groupe>
+    <Matiere>Anglais</Matiere>
+    <Intervenant>GILHOOLY Aidan</Intervenant>
+  </Table>
+  <Table>
+    <Salle>Novotel 1</Salle>
+    <CodeSalle>1018</CodeSalle>
+    <Date>26/10/2017</Date>
+    <Debut>08:30</Debut>
+    <Fin>12:30</Fin>
+    <Session>FIP A BTP 16-19 Montpellier</Session>
+    <Groupe>121479</Groupe>
+    <Matiere>Anglais</Matiere>
+    <Intervenant>FOUQUET Marie-Jo</Intervenant>
+  </Table>
+  <Table>
+    <Salle>Novotel 1</Salle>
+    <CodeSalle>1018</CodeSalle>
+    <Date>26/10/2017</Date>
+    <Debut>13:30</Debut>
+    <Fin>17:30</Fin>
+    <Session>FIP A BTP 16-19 Montpellier</Session>
+    <Groupe>121479</Groupe>
+    <Matiere>Anglais</Matiere>
+    <Intervenant>FOUQUET Marie-Jo</Intervenant>
+  </Table>
+  <Table>
+    <Salle>Novotel 3</Salle>
+    <CodeSalle>1020</CodeSalle>
+    <Date>26/10/2017</Date>
+    <Debut>08:30</Debut>
+    <Fin>12:30</Fin>
+    <Session>FIP A BTP 16-19 Montpellier</Session>
+    <Groupe>121480</Groupe>
+    <Matiere>Anglais</Matiere>
+    <Intervenant>MARTI Raphaël</Intervenant>
+  </Table>
+  <Table>
+    <Salle>Novotel 3</Salle>
+    <CodeSalle>1020</CodeSalle>
+    <Date>26/10/2017</Date>
+    <Debut>13:30</Debut>
+    <Fin>17:30</Fin>
+    <Session>FIP A BTP 16-19 Montpellier</Session>
+    <Groupe>121480</Groupe>
+    <Matiere>Anglais</Matiere>
+    <Intervenant>MARTI Raphaël</Intervenant>
+  </Table>
+  <Table>
+    <Salle>MOULIN</Salle>
+    <CodeSalle>587</CodeSalle>
+    <Date>26/10/2017</Date>
+    <Debut>08:30</Debut>
+    <Fin>10:00</Fin>
+    <Session>FIP A BTP 17-20 Montpellier</Session>
+    <Groupe>133679</Groupe>
+    <Matiere>Stabilité des ouvrages</Matiere>
+    <Intervenant>DUARTE DE ALMEIDA Nelly</Intervenant>
+  </Table>
+  <Table>
+    <Salle>MOULIN</Salle>
+    <CodeSalle>587</CodeSalle>
+    <Date>26/10/2017</Date>
+    <Debut>10:00</Debut>
+    <Fin>12:30</Fin>
+    <Session>FIP A BTP 17-20 Montpellier</Session>
+    <Groupe>133679</Groupe>
+    <Matiere>Travail de groupe</Matiere>
+    <Intervenant>DUARTE DE ALMEIDA Nelly</Intervenant>
+  </Table>
+  <Table>
+    <Salle>VAUBAN</Salle>
+    <CodeSalle>276</CodeSalle>
+    <Date>26/10/2017</Date>
+    <Debut>13:30</Debut>
+    <Fin>14:30</Fin>
+    <Session>FIP A BTP 17-20 Montpellier</Session>
+    <Groupe>133679</Groupe>
+    <Matiere>Travail de groupe</Matiere>
+    <Intervenant>DUARTE DE ALMEIDA Nelly</Intervenant>
+  </Table>
+  <Table>
+    <Salle>EIFFEL</Salle>
+    <CodeSalle>586</CodeSalle>
+    <Date>26/10/2017</Date>
+    <Debut>08:30</Debut>
+    <Fin>12:30</Fin>
+    <Session>GMSI Montpellier 2017</Session>
+    <Groupe>121555</Groupe>
+    <Matiere>Windows Client</Matiere>
+    <Intervenant>DOIRISSE Yannick</Intervenant>
+  </Table>
+  <Table>
+    <Salle>EIFFEL</Salle>
+    <CodeSalle>586</CodeSalle>
+    <Date>26/10/2017</Date>
+    <Debut>13:30</Debut>
+    <Fin>17:30</Fin>
+    <Session>GMSI Montpellier 2017</Session>
+    <Groupe>121555</Groupe>
+    <Matiere>Windows Client</Matiere>
+    <Intervenant>DOIRISSE Yannick</Intervenant>
+  </Table>
+  <Table>
+    <Salle>MOLIERE</Salle>
+    <CodeSalle>585</CodeSalle>
+    <Date>26/10/2017</Date>
+    <Debut>08:30</Debut>
+    <Fin>12:30</Fin>
+    <Session>MDRH 12 mois Montpellier 2017</Session>
+    <Groupe>121557</Groupe>
+    <Matiere>Management d'équipe</Matiere>
+    <Intervenant>GERVAISE Véronique</Intervenant>
+  </Table>
+  <Table>
+    <Salle>MOLIERE</Salle>
+    <CodeSalle>585</CodeSalle>
+    <Date>26/10/2017</Date>
+    <Debut>13:30</Debut>
+    <Fin>17:30</Fin>
+    <Session>MDRH 12 mois Montpellier 2017</Session>
+    <Groupe>121557</Groupe>
+    <Matiere>Management d'équipe</Matiere>
+    <Intervenant>GERVAISE Véronique</Intervenant>
+  </Table>
+  <Table>
+    <Salle>RABELAIS</Salle>
+    <CodeSalle>584</CodeSalle>
+    <Date>26/10/2017</Date>
+    <Debut>08:30</Debut>
+    <Fin>09:30</Fin>
+    <Session>RIL professionnalisation 16 Montpellier</Session>
+    <Groupe>107253</Groupe>
+    <Matiere>Projet stagiaire</Matiere>
+    <Intervenant>BARBARE Florent</Intervenant>
+  </Table>
+  <Table>
+    <Salle>RABELAIS</Salle>
+    <CodeSalle>584</CodeSalle>
+    <Date>26/10/2017</Date>
+    <Debut>09:30</Debut>
+    <Fin>12:30</Fin>
+    <Session>RIL professionnalisation 16 Montpellier</Session>
+    <Groupe>107253</Groupe>
+    <Matiere>Projet stagiaire</Matiere>
+    <Intervenant>CHAMLA Lior</Intervenant>
+  </Table>
+  <Table>
+    <Salle>RABELAIS</Salle>
+    <CodeSalle>584</CodeSalle>
+    <Date>26/10/2017</Date>
+    <Debut>13:30</Debut>
+    <Fin>17:30</Fin>
+    <Session>RIL professionnalisation 16 Montpellier</Session>
+    <Groupe>107253</Groupe>
+    <Matiere>Projet stagiaire</Matiere>
+    <Intervenant>CHAMLA Lior</Intervenant>
+  </Table>
+  <Table>
+    <Salle>MAILLOL</Salle>
+    <CodeSalle>590</CodeSalle>
+    <Date>26/10/2017</Date>
+    <Debut>08:30</Debut>
+    <Fin>12:30</Fin>
+    <Session>RIR alternance 16 Montpellier</Session>
+    <Groupe>107252</Groupe>
+    <Matiere>Réseaux étendus</Matiere>
+  </Table>
+  <Table>
+    <Salle>MAILLOL</Salle>
+    <CodeSalle>590</CodeSalle>
+    <Date>26/10/2017</Date>
+    <Debut>13:30</Debut>
+    <Fin>17:30</Fin>
+    <Session>RIR alternance 16 Montpellier</Session>
+    <Groupe>107252</Groupe>
+    <Matiere>Réseaux étendus</Matiere>
+  </Table>
+  <Table>
+    <Salle>RIQUET</Salle>
+    <CodeSalle>274</CodeSalle>
+    <Date>26/10/2017</Date>
+    <Debut>08:30</Debut>
+    <Fin>12:30</Fin>
+    <Session>RRH 12 mois Montpellier 2017</Session>
+    <Groupe>121559</Groupe>
+    <Matiere>Economie d'entreprise</Matiere>
+    <Intervenant>RAFFALLI Emma</Intervenant>
+  </Table>
+  <Table>
+    <Salle>RIQUET</Salle>
+    <CodeSalle>274</CodeSalle>
+    <Date>26/10/2017</Date>
+    <Debut>13:30</Debut>
+    <Fin>17:30</Fin>
+    <Session>RRH 12 mois Montpellier 2017</Session>
+    <Groupe>121559</Groupe>
+    <Matiere>Economie d'entreprise</Matiere>
+    <Intervenant>RAFFALLI Emma</Intervenant>
+  </Table>
+</NewDataSet>
