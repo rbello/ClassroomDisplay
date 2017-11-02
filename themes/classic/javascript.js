@@ -78,7 +78,7 @@ setInterval(function () {
 
 	$('#viewport').scrollTop(currentValue);
 	
-}, 18);
+}, 20);
 
 /**
  * Update clock (legacy code)
