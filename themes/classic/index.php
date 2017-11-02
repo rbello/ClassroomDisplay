@@ -1,14 +1,16 @@
-File has not yet been generated : sites/saint nazaire/23032011.xml		<HTML>
+<HTML>
 		<HEAD>
 		  <TITLE>Planning CESI : Centre de Saint nazaire</TITLE>
-			<base href="http://soafficheur/" />
-			<link href="inc/Style.css" rel="stylesheet" type="text/css" />
-			<script type="text/javascript" src="inc/javascript.js"></script>
+			<link href="themes/classic/styles.css" rel="stylesheet" type="text/css" />
+			<script type="text/javascript" src="themes/classic/javascript.js"></script>
 		</HEAD>
-		<BODY OnLoad="javascript:Horloge();javascript:pageChange();javascript:refreshpage('/saint nazaire/23032011/1/',180000);">
+		<BODY onload="javascript:Horloge()">
 			<div class="conteneur">
 				<div class="Zone2"></div>
-				<div class="Zone3"><img align="left" src="img/HautGauche.png" border="0" hspace="0"><img src="img/HautDroit.png" align="right" hspace="0"></div>
+				<div class="Zone3">
+						<img align="left" src="themes/classic/HautGauche.png" border="0" hspace="0">
+						<img src="themes/classic/HautDroit.png" align="right" hspace="0">
+					</div>
 				<div class="Zone4"><span class="horloge" id="Time"></span></div>
 		<div class="frame" id="frame">
 		<script type="text/javascript">var pages=new Array();var i=0;var time=10000;function pageChange() { ajaxpage(pages[i],"frame"); i++;if(i==pages.length) { i=0;} setTimeout("pageChange()",time);}</script>		<table width="100%">

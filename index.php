@@ -1,4 +1,11 @@
 <?php
+
+include 'inc/init.php';
+
+include 'themes/' . $_CONFIG['theme'] . '/index.php';
+
+return;
+
 	//Inclusion des Fichiers de Configuration et Variables Global
 	require_once("inc/fonctions.inc.php");
 	require_once("inc/localvars.inc.php");
@@ -15,7 +22,7 @@
 	$current_color = "#FFFFFF";
 	$previous_color = "";
 	
-	//Lecture des paramètres du Site
+	//Lecture des paramï¿½tres du Site
 	$qparams = "SELECT * FROM ".$SqlVar["Tables"]["Parametres"]." WHERE `site`='".$site."' AND `afficheur`='".$numaff."';";
 	$param_query = get_query($qparams);
 	if($debug){
@@ -62,7 +69,7 @@
 	}
 			//Calcul des Offsets d'affichage
 			if(!$full){
-				//x Salles par page soit $params["par_page"] réservations
+				//x Salles par page soit $params["par_page"] rï¿½servations
 				$nb_pages = ceil(count($afficheur)/$params["par_page"]);
 				$startoffset = ($page=="1")?1:$params["par_page"]*($page-1);
 				$endoffset = "";
@@ -133,7 +140,7 @@
 								
 						<?php
 						for($y = $startoffset; $y < $endoffset; $y++){
-							//Définition des noms de colonne
+							//Dï¿½finition des noms de colonne
 								//Netoyage des valeurs
 							$promo_nc = $afficheur[$y]["Session"];
 							$promo = corres_promo($site,str_ireplace($site,"",$promo_nc));
@@ -158,7 +165,7 @@
 								continue;
 							}
 							
-							//Effacement des données redondantes (Même promo, même salle)
+							//Effacement des donnï¿½es redondantes (Mï¿½me promo, mï¿½me salle)
 							$i =1;
 							foreach($afficheur as $current_reza){
 								if($current_reza["Salle"] == $salle && $current_reza["Session"] == $promo_nc && $current_reza["Groupe"] == $afficheur[$y]["Groupe"]){
@@ -170,7 +177,7 @@
 							
 							
 							//Changement des couleurs suivant les noms des salles
-							//Ajout du padding au début de la réza
+							//Ajout du padding au dï¿½but de la rï¿½za
 							$style = 'style="';
 							if($salle <> @$afficheur[$y-1]["Salle"]){
 								if($current_color == "#FFFFFF"){
@@ -181,7 +188,7 @@
 								$style .= 'border-top: 1px solid black; padding-top: 5px;';
 							}
 							
-							//Ajout du padding à la fin de la réza
+							//Ajout du padding ï¿½ la fin de la rï¿½za
 							if($salle <> @$afficheur[$y+1]["Salle"]){
 								$style .= 'padding-bottom: 5px;';
 							}
