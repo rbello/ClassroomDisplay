@@ -10,9 +10,18 @@ La configuration de l'afficheur se fait au travers d'un fichier de configuration
 
 Ensuite, l'afficheur utilise un système de **profile** pour configurer les salles qui doivent être affichées. Dans le répertoire `config`, un fichier `default.profile.php` est déjà présent. Il faut ici encore le dupliquer mais le nommage va dépendre du profile qui sera créé. Par exemple, nous allons créer ici le profile `Toulouse` : le fichier dupliqué devra donc porter le nom `Toulouse.profile.php`.
 
+```
+return array(
+    'nomEtablissement' => "Toulouse Omega",
+    'codeEtablissement' => "TL",
+    'salles' => '1101 1102 1103 1104 1105 1106 1107 1108 1109 1110 1111 1112 1113 1114'
+);
+```
+
 ## Utilisation
 
-Entrer l'URL suivante : `http://mon-serveur/<Profile>/`
+Entrer l'URL suivante : `http://mon-serveur/<Profile>` (sans le slash final)
+
 L'affichage apparaît automatiquement si le fichier de configuration est bien paramétré. Si non, un message d'erreur apparaît.
 
 Le serveur utilise une API REST renvoyant du JSON qui s'utilise de cette manière :
