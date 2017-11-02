@@ -1,0 +1,238 @@
+@font-face {    
+	font-family: lcd2;
+	src: url('inc/lcd.eot');
+	src: local(lcd2), url('inc/lcd.ttf') format('opentype');
+}
+
+body {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+h2{
+	text-align: center;
+	font-family: "Verdana"; 
+	/* font-size: 12px; */ 
+	color: #000000; 
+	font-weight: bolder;
+}
+
+.conteneur {
+width: 100%;
+height: 100%;
+background-color: #FFF;
+}
+
+.Zone1 {
+position: absolute;
+top: 0;
+width:100%;
+height: 20px;
+background: #a1a2a4;
+}
+
+.Zone2 {
+position: absolute;
+top:0;
+width:100%;
+height:10px;
+background: #eeeeee;
+border-top: 1px solid #fff
+}
+
+.Zone3 {
+position: absolute;
+top: 0;
+width:100%;
+height: 77px;
+background: #fff;
+background-image:url(../img/HautBackground.png);
+}
+
+.Zone4 {
+position: absolute;
+top:80px;
+width: 100%;
+height: 21px;
+background-color: #a1a2a4;
+border-top: 1px solid #fff;
+border-bottom: 1px solid #FFC68C;
+}
+.horloge {
+position: absolute;
+top: -350%;
+left: 60%;
+z-index: 0;
+font-family: lcd2;
+font-size: 3em;
+}
+.frame {
+position: absolute;
+margin-top: 2px;
+top:100px;
+width: 100%;
+height: 90%;
+background-color: #FFFFFF;
+}
+
+.deco {
+position: absolute;
+background-color: #FFFFFF;
+display: none;
+width: 100%;
+height: 150px;
+}
+
+.working {
+position: absolute;
+background-color: #FFFFFF;
+display: none;
+width: 100%;
+height: 150px;
+}
+
+.titre	 {font-family: "Verdana"; font-size: 12px; color: #99CCCC; font-weight: bolder; }
+
+.texte {font-family: "Verdana"; font-size: 12px; color: #000000; font-weight: normal; }
+
+.kwartz {font-family: "Verdana"; font-size: 9px; color: #999999; font-weight: normal; }
+
+.tb_planning th{
+	/* border-bottom: 1px solid black;  */
+	padding-bottom: 5px;
+}
+
+.session{
+	font-size : 1.2em;
+	font-weight: bolder;
+	color: black;
+}
+
+.salles{
+	font-size : 1.2em;
+	font-weight: bolder;
+	color: black;
+}
+
+.matiere{
+
+}
+
+.intervenant{
+
+}
+
+.periode{
+ font-size: 1em;
+}
+
+.end{
+ border-top: 1px solid black;
+}
+
+.tbtitle{
+	text-align: right;
+	vertical-align:text-top;
+}
+
+.admintable{
+	margin-top: 5px;
+	width: 100%;
+}
+
+.adminmenu{
+	border-bottom: 1px solid black;
+	font-size: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align: center;
+}
+
+.adminmenuselected{
+	border-top: 1px solid black;
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 10px;
+	text-align: center;
+	background-color: lightgrey;
+}
+
+.admintbbody{
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
+	background-color: lightgrey;
+}
+
+.adminmenu a, .adminmenuselected a{
+	text-decoration: none;
+	color: blue;
+}
+
+.logindiv{
+	text-align: center;
+}
+
+.adminfont td{
+
+}
+
+.tbpub{
+	width: 100%;
+}
+
+.tbpub tr.d1 td{
+	background-color: white;
+}
+
+.tbpub tr.d2 td{
+	background-color: #99CCCC;
+}
+
+.tbpub td{
+	border: 1px solid black;
+}
+
+.tbaddpub{
+	background-color: white;
+	width: 40%;
+	border: 1px solid black;
+}
+
+.tbaddpubhead{
+	text-align: right;
+	vertical-align: top;
+	font-weight: bold;
+}
+
+.msginfo{
+	width: 98%;
+	margin: 15px;
+	border: 3px dashed blue;
+	background-color: lightblue;
+	padding: 10px;
+	padding-left: 40px;
+}
+
+.msgerror{
+	width: 98%;
+	margin: 15px;
+	border: 3px dashed red;
+	background-color: #FFCCCC;
+	padding: 10px;
+	padding-left: 40px;
+	font-weight: bold;
+}
+
+.tbusers{
+	width: 100%;
+}
+
+.tbusers td{
+	border: 1px solid black;
+}
