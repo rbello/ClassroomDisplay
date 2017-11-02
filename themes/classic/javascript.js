@@ -70,7 +70,7 @@ setInterval(function () {
 	console.log(currentValue + "/" + planningHeight);
 	
 	if (currentValue > planningHeight || currentValue <= 0) {
-		sleep(2000);
+		sleep(5000);
 		move *= -1;
 	}
 	
@@ -78,7 +78,7 @@ setInterval(function () {
 
 	$('#viewport').scrollTop(currentValue);
 	
-}, 15);
+}, 18);
 
 /**
  * Update clock (legacy code)
