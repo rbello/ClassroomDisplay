@@ -1,0 +1,76 @@
+NomSalle;CodeSalle;DateDebut;HeureDebut;DateFin;HeureFin;NomSession;CodeSession;SousGroupe;NomMatiere;NomIntervenant
+001 Thésée;286;06/11/2017;08:30;06/11/2017;10:30;FIP A S3E 17-20 TOULOUSE PROMO 1 et PROMO 2;1796844;PROMO 1 entière (G1 + G2);Electronique;LATAPIE Guy
+002 Athena ;287;06/11/2017;08:30;06/11/2017;10:30;FIP A S3E 17-20 TOULOUSE PROMO 1 et PROMO 2;1796844;PROMO 2  entière (G1+G2);Math‚matiques;TERNISIEN Marc
+105 Gibraltar;300;06/11/2017;08:30;06/11/2017;12:00;MS MPP 16/17 TOULOUSE;1698676;Groupe 80;Soutenance - Expos‚;
+103 Panama ;301;06/11/2017;08:30;06/11/2017;12:00;MS MPP 16/17 TOULOUSE;1698676;Groupe 80;Soutenance - Expos‚;
+101 Bering ;433;06/11/2017;08:30;06/11/2017;12:00;MS MACEO 17-18 Toulouse;1814411;Groupe 80;Accueil - Bilan - Synthèse - Evaluation;ALBOUY Sylvain
+007 Hespérides 1;297;06/11/2017;08:30;06/11/2017;12:30;Arcadre MAI 2016 Toulouse;1659041;Groupe session complète;Projet stagiaire;GAVEL Laurence
+007 Hespérides 1;297;06/11/2017;08:30;06/11/2017;12:30;Project manager Mai 2016 Toulouse;1699121;Groupe session complète;Projet stagiaire;GAVEL Laurence
+205 Hôtel 5;534;06/11/2017;08:30;06/11/2017;12:30;RISR 16 Toulouse;1671955;Groupe session complète;VOIP;DOIRISSE Yannick
+211 Hôtel 11;664;06/11/2017;08:30;06/11/2017;12:30;MSI 16 Toulouse;1671957;Groupe session complète;Management de projet;POYET ROY Evelyne
+203 Hôtel 3;532;06/11/2017;08:30;06/11/2017;12:30;FF Assistant(e) RH 17 Toulouse;1772283;Groupe session complète;Les institutions repr‚sentatives du personnel;ADMIRAL Fabien
+203 Hôtel 3;532;06/11/2017;08:30;06/11/2017;12:30;SPE ARH Toulouse 2017;1812798;Groupe session complète;Les institutions repr‚sentatives du personnel;ADMIRAL Fabien
+203 Hôtel 3;532;06/11/2017;08:30;06/11/2017;12:30;RRH 24 mois Toulouse 2017;1812802;Groupe session complète;Les institutions repr‚sentatives du personnel;ADMIRAL Fabien
+003 Eole ;293;06/11/2017;08:30;06/11/2017;12:30;RIL 17 Toulouse;1812795;Groupe session complète;Accueil - Bilan - Synthèse - Evaluation;BUFFAT Olivier
+010 Ouranos ;295;06/11/2017;08:30;06/11/2017;12:30;GMSI 17 Toulouse;1812796;Groupe session complète;Anglais;KEOHANE-VIGNAUX Blanche
+008 Héméra ;291;06/11/2017;08:30;06/11/2017;12:30;FFR QSE Octobre 17 Toulouse;1772051;Groupe session complète;Norme ISO 9001;VIGNOLLE Jean-Marc
+008 Héméra ;291;06/11/2017;08:30;06/11/2017;12:30;BLOC MaŒtriser le SMQ FFRQSE Oct 17 Toulouse;1772058;Groupe session complète;Norme ISO 9001;VIGNOLLE Jean-Marc
+004 Poseïdon ;292;06/11/2017;08:30;06/11/2017;12:30;RISR 17 Toulouse;1812793;Groupe session complète;Gestion de projet informatique;CARLOT Patrick
+022 Phoebé ;284;06/11/2017;08:30;06/11/2017;12:30;EXIA 17 Toulouse A1;1804287;Groupe0;Filtrage;
+026 Rhéa ;285;06/11/2017;08:30;06/11/2017;12:30;EXIA 17 Toulouse A1;1804287;Groupe0;Filtrage;
+021 Orphée ;289;06/11/2017;08:30;06/11/2017;12:30;EXIA 17 Toulouse A2;1804290;Groupe session complète;Projet scientifique;
+025 Hespérides 2;296;06/11/2017;08:30;06/11/2017;12:30;EXIA 17 Toulouse A2;1804290;Groupe session complète;Projet scientifique;
+020 Prométhée ;288;06/11/2017;08:30;06/11/2017;12:30;EXIA 17 Toulouse A3;1804293;Groupe0;Mecanismes de synchronisation 1;
+011 Gaïa ;294;06/11/2017;08:30;06/11/2017;12:30;EXIA 17 Toulouse A5;1804304;Groupe session complète;Entrepreneuriat;
+312 Hanoï;1112;06/11/2017;08:30;06/11/2017;12:30;FORMATION CESI;382855;Groupe 3;Gestion financière;
+013 Keres ;305;06/11/2017;08:30;06/11/2017;12:30;FFR Responsable Performance Industrielle;1828123;Groupe session complète;Accueil - Bilan - Synthèse - Evaluation;FREGEAC Camille
+013 Keres ;305;06/11/2017;08:30;06/11/2017;12:30;FFR Production;1865071;Groupe session complète;Accueil - Bilan - Synthèse - Evaluation;FREGEAC Camille
+005 Pléïades 1 ;298;06/11/2017;08:30;06/11/2017;12:30;FF animateur QSE 17 Toulouse;1772024;Groupe session complète;Norme ISO 9001 V2000;CHERFI Mahmoud
+005 Pléïades 1 ;298;06/11/2017;08:30;06/11/2017;12:30;ISO 9001 initiation 17 Toulouse;1772032;Groupe session complète;Norme ISO 9001 V2000;CHERFI Mahmoud
+005 Pléïades 1 ;298;06/11/2017;08:30;06/11/2017;12:30;SPE QSE Toulouse 2017;1812804;Groupe session complète;Norme ISO 9001 V2000;CHERFI Mahmoud
+005 Pléïades 1 ;298;06/11/2017;08:30;06/11/2017;12:30;FFAQSE Parcours personnalis‚ DE OLIVEIRA Rosa Maria;1866472;Groupe session complète;Norme ISO 9001 V2000;CHERFI Mahmoud
+023 H‚lios ;283;06/11/2017;09:00;06/11/2017;12:00;CPTEI 17-18 A1 Toulouse;1804350;Groupe session complète;Physique;EL GAZZANI Samira
+012 Ushuiaa ;456;06/11/2017;09:00;06/11/2017;12:30;FI-FC 2016-2018 ALTERNEE TOULOUSE;1727570;Groupe 80;D‚veloppement durable;MERIENNE Muriel
+102 Suez ;432;06/11/2017;09:00;06/11/2017;12:30;FI-FC 2017-2018 TP TOULOUSE;1731029;Groupe 80;Projet scientifique;VIAZZI Celine
+102 Suez ;432;06/11/2017;09:00;06/11/2017;12:30;FI-FC 2017-2019 ALT TOULOUSE P1;1758861;Groupe 80;Projet scientifique;VIAZZI Celine
+006 Pléïades 2 ;299;06/11/2017;09:00;06/11/2017;12:30;FI-FC 2017-2019 ALT TOULOUSE P2;1861960;Groupe 80;Accueil - Bilan - Synthèse - Evaluation;BIQUET Christophe
+106 Magellan;457;06/11/2017;10:00;06/11/2017;12:00;FIP A S3E 15-18 TOULOUSE A3;1887738;FIPA 20 PROMO 1 (G1 + G2);Suivi - R‚gulation;MILLET Laurence
+001 Th‚s‚e;286;06/11/2017;10:30;06/11/2017;12:30;FIP A S3E 17-20 TOULOUSE PROMO 1 et PROMO 2;1796844;PROMO 1 entière (G1 + G2);Outils ‚lectriques pour l'‚lectronique;TERNISIEN Marc
+002 Athena ;287;06/11/2017;10:30;06/11/2017;12:30;FIP A S3E 17-20 TOULOUSE PROMO 1 et PROMO 2;1796844;PROMO 2  entière (G1+G2);Electronique;LATAPIE Guy
+023 H‚lios ;283;06/11/2017;13:00;06/11/2017;16:00;CPTEI 17-18 A1 Toulouse;1804350;Groupe session complète;Math‚matiques;BOUDIAF Ahmed
+012 Ushuiaa ;456;06/11/2017;13:30;06/11/2017;17:00;FI-FC 2016-2018 ALTERNEE TOULOUSE;1727570;Groupe 80;D‚veloppement durable;MERIENNE Muriel
+105 Gibraltar;300;06/11/2017;13:30;06/11/2017;17:00;MS MPP 16/17 TOULOUSE;1698676;Groupe 80;Soutenance - Expos‚;
+103 Panama ;301;06/11/2017;13:30;06/11/2017;17:00;MS MPP 16/17 TOULOUSE;1698676;Groupe 80;Soutenance - Expos‚;
+101 Bering ;433;06/11/2017;13:30;06/11/2017;17:00;MS MACEO 17-18 Toulouse;1814411;Groupe 80;Accueil - Bilan - Synthèse - Evaluation;ALBOUY Sylvain
+006 Pléïades 2 ;299;06/11/2017;13:30;06/11/2017;17:00;FI-FC 2017-2019 ALT TOULOUSE P2;1861960;Groupe 80;Accueil - Bilan - Synthèse - Evaluation;BIQUET Christophe
+102 Suez ;432;06/11/2017;13:30;06/11/2017;17:00;FI-FC 2017-2018 TP TOULOUSE;1731029;Groupe 80;MRP;
+024 Déméter ;290;06/11/2017;13:30;06/11/2017;17:00;FI-FC 2017-2019 ALT TOULOUSE P1;1758861;Groupe 80;Math‚matiques;PAYRISSAT Ren‚
+007 Hespérides 1;297;06/11/2017;13:30;06/11/2017;17:30;Arcadre MAI 2016 Toulouse;1659041;Groupe session complète;Projet stagiaire;GAVEL Laurence
+007 Hespérides 1;297;06/11/2017;13:30;06/11/2017;17:30;Project manager Mai 2016 Toulouse;1699121;Groupe session complète;Projet stagiaire;GAVEL Laurence
+205 Hôtel 5;534;06/11/2017;13:30;06/11/2017;17:30;RISR 16 Toulouse;1671955;Groupe session complète;VOIP;DOIRISSE Yannick
+211 Hôtel 11;664;06/11/2017;13:30;06/11/2017;17:30;MSI 16 Toulouse;1671957;Groupe session complète;Management de projet;POYET ROY Evelyne
+203 Hôtel 3;532;06/11/2017;13:30;06/11/2017;17:30;FF Assistant(e) RH 17 Toulouse;1772283;Groupe session complète;Les institutions repr‚sentatives du personnel;ADMIRAL Fabien
+203 Hôtel 3;532;06/11/2017;13:30;06/11/2017;17:30;SPE ARH Toulouse 2017;1812798;Groupe session complète;Les institutions repr‚sentatives du personnel;ADMIRAL Fabien
+203 Hôtel 3;532;06/11/2017;13:30;06/11/2017;17:30;RRH 24 mois Toulouse 2017;1812802;Groupe session complète;Les institutions repr‚sentatives du personnel;ADMIRAL Fabien
+003 Eole ;293;06/11/2017;13:30;06/11/2017;17:30;RIL 17 Toulouse;1812795;Groupe session complète;Accueil - Bilan - Synthèse - Evaluation;BUFFAT Olivier
+010 Ouranos ;295;06/11/2017;13:30;06/11/2017;17:30;GMSI 17 Toulouse;1812796;Groupe session complète;Technologie CISCO;BRUN Jérôme
+008 Héméra ;291;06/11/2017;13:30;06/11/2017;17:30;FFR QSE Octobre 17 Toulouse;1772051;Groupe session complète;Norme ISO 9001;VIGNOLLE Jean-Marc
+008 Héméra ;291;06/11/2017;13:30;06/11/2017;17:30;BLOC MaŒtriser le SMQ FFRQSE Oct 17 Toulouse;1772058;Groupe session complète;Norme ISO 9001;VIGNOLLE Jean-Marc
+004 Poseïdon ;292;06/11/2017;13:30;06/11/2017;17:30;RISR 17 Toulouse;1812793;Groupe session complète;Gestion de projet informatique;CARLOT Patrick
+022 Phoeb‚ ;284;06/11/2017;13:30;06/11/2017;17:30;EXIA 17 Toulouse A1;1804287;Groupe session complète;Electronique;
+026 Rhéa ;285;06/11/2017;13:30;06/11/2017;17:30;EXIA 17 Toulouse A2;1804290;Groupe session complète;Projet scientifique;
+021 Orphée ;289;06/11/2017;13:30;06/11/2017;17:30;EXIA 17 Toulouse A2;1804290;Groupe session complète;Projet scientifique;
+025 Hespérides 2;296;06/11/2017;13:30;06/11/2017;17:30;EXIA 17 Toulouse A2;1804290;Groupe session complète;Projet scientifique;
+020 Prométhée ;288;06/11/2017;13:30;06/11/2017;17:30;EXIA 17 Toulouse A3;1804293;Groupe session complète;Virtualisation;
+011 Gaïa ;294;06/11/2017;13:30;06/11/2017;17:30;EXIA 17 Toulouse A5;1804304;Groupe session complète;Propri‚t‚ intellectuelle;
+002 Athena ;287;06/11/2017;13:30;06/11/2017;17:30;FIP A S3E 17-20 TOULOUSE PROMO 1 et PROMO 2;1796844;PROMO 1 entière (G1 + G2);Expression orale;MILLET Laurence
+001 Thésée;286;06/11/2017;13:30;06/11/2017;17:30;FIP A S3E 16-19 TOULOUSE PROMO 1 ET PROMO 2;1679913;Promo 1 entière (G1+G2);Soutien - rattrapage;ASSALIT Sandrine
+312 Hanoï;1112;06/11/2017;13:30;06/11/2017;17:30;FORMATION CESI;382855;Groupe 3;Gestion financière;
+106 Magellan;457;06/11/2017;13:30;06/11/2017;17:30;P FIP C S3E 17 Toulouse;1814400;groupe 80;Electricité‚;MZALI Bader
+013 Keres ;305;06/11/2017;13:30;06/11/2017;17:30;FFR Responsable Performance Industrielle;1828123;Groupe session complète;Accueil - Bilan - Synthèse - Evaluation;FREGEAC Camille
+013 Keres ;305;06/11/2017;13:30;06/11/2017;17:30;FFR Production;1865071;Groupe session complète;Accueil - Bilan - Synthèse - Evaluation;FREGEAC Camille
+005 Pléïades 1 ;298;06/11/2017;13:30;06/11/2017;17:30;FF animateur QSE 17 Toulouse;1772024;Groupe session complète;Norme ISO 9001 V2000;CHERFI Mahmoud
+005 Pléïades 1 ;298;06/11/2017;13:30;06/11/2017;17:30;ISO 9001 initiation 17 Toulouse;1772032;Groupe session complète;Norme ISO 9001 V2000;CHERFI Mahmoud
+005 Pléïades 1 ;298;06/11/2017;13:30;06/11/2017;17:30;SPE QSE Toulouse 2017;1812804;Groupe session complète;Norme ISO 9001 V2000;CHERFI Mahmoud
+005 Pléïades 1 ;298;06/11/2017;13:30;06/11/2017;17:30;FFAQSE Parcours personnalis‚ DE OLIVEIRA Rosa Maria;1866472;Groupe session complète;Norme ISO 9001 V2000;CHERFI Mahmoud
+023 Hélios ;283;06/11/2017;16:30;06/11/2017;17:30;CPTEI 17-18 A1 Toulouse;1804350;Groupe session complète;Anglais;
