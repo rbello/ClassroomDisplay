@@ -51,19 +51,47 @@ interface CAD {
 	
 }
 
-/*class FNG implements CAD {
-	
-}*/
-
 class CSVDataReader implements CAD {
-	
-	public static final $ROOT = dirname(__FILE__);
-	
+
 	public function getClassRoomsList() {
-		echo self::$ROOT;
+		return self::parseCsvFile(dirname(__FILE__) . '/../data/ListeSalles2017.csv');
 	}
-	
+
+	public function getClassRoomsBookings($racineAnalytiqueEtablissement, $date) {
+		return self::parseCsvFile(dirname(__FILE__) . '/../data/ExempleJeuDeDonneesSeances.csv');
+	}
+
+	private static function parseCsvFile($path) {
+		if (!file_exists($path)) return NULL;
+		$data = explode("\n", file_get_contents($path));
+		$keys = array();
+		$result = array();
+		foreach ($data as $line) {
+			if (empty($line)) continue;
+			if (empty($keys)) {
+				$keys = explode(';', $line);
+			}
+			else {
+				$result[] = array_combine($keys, explode(';', $line));
+			}
+		}
+		return $result;
+	}
+
 }
 
-$cad = new CSVDataReader();
-print_r($cad->getClassRoomsList());
+class FNG implements CAD {
+
+	public function getClassRoomsList() {
+		$file = dirname(__FILE__) . '/../data/ListeSalles.sql';
+		$sql = file_get_contents($file);
+	}
+
+	public function getClassRoomsBookings($racineAnalytiqueEtablissement, $date) {
+		$file = dirname(__FILE__) . '/../data/ListeSeances.sql';
+		$sql = file_get_contents($file);
+		$sql = str_replace('{Racine analytique etablissement,Chaine,NULL}', "'{$racineAnalytiqueEtablissement}'", $sql);
+		$sql = str_replace('{Date (JJ/MM/AAAA),Chaine,NULL}', "'{$date}'", $sql);
+	}
+
+}
