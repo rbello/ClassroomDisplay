@@ -1,0 +1,6 @@
+.c9
+.git
+
+config/*
+!default.config.php
+!default.profile.php
