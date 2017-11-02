@@ -1,9 +1,3 @@
-@font-face {    
-	font-family: lcd2;
-	src: url('inc/lcd.eot');
-	src: local(lcd2), url('inc/lcd.ttf') format('opentype');
-}
-
 body {
 	font-family:Verdana, Arial, Helvetica, sans-serif;
 	width: 100%;
@@ -12,7 +6,7 @@ body {
 	padding: 0;
 }
 
-h2{
+h2 {
 	text-align: center;
 	font-family: "Verdana"; 
 	/* font-size: 12px; */ 
@@ -21,77 +15,79 @@ h2{
 }
 
 .conteneur {
-width: 100%;
-height: 100%;
-background-color: #FFF;
+	width: 100%;
+	height: 100%;
+	background-color: #FFF;
 }
 
 .Zone1 {
-position: absolute;
-top: 0;
-width:100%;
-height: 20px;
-background: #a1a2a4;
+	position: absolute;
+	top: 0;
+	width:100%;
+	height: 20px;
+	background: #a1a2a4;
 }
 
 .Zone2 {
-position: absolute;
-top:0;
-width:100%;
-height:10px;
-background: #eeeeee;
-border-top: 1px solid #fff
+	position: absolute;
+	top:0;
+	width:100%;
+	height:10px;
+	background: #eeeeee;
+	border-top: 1px solid #fff
 }
 
 .Zone3 {
-position: absolute;
-top: 0;
-width:100%;
-height: 77px;
-background: #fff;
-background-image:url(../img/HautBackground.png);
+	position: absolute;
+	top: 0;
+	width:100%;
+	height: 77px;
+	background: #fff;
+	background-image:url(HautBackground.png);
 }
 
 .Zone4 {
-position: absolute;
-top:80px;
-width: 100%;
-height: 21px;
-background-color: #a1a2a4;
-border-top: 1px solid #fff;
-border-bottom: 1px solid #FFC68C;
+	position: absolute;
+	top:80px;
+	width: 100%;
+	height: 21px;
+	background-color: #a1a2a4;
+	border-top: 1px solid #fff;
+	border-bottom: 1px solid #FFC68C;
 }
+
 .horloge {
-position: absolute;
-top: -350%;
-left: 60%;
-z-index: 0;
-font-family: lcd2;
-font-size: 3em;
+	position: absolute;
+	top: -350%;
+	left: 60%;
+	z-index: 0;
+	font-family: lcd2;
+	font-size: 3em;
 }
+
 .frame {
-position: absolute;
-margin-top: 2px;
-top:100px;
-width: 100%;
-height: 90%;
-background-color: #FFFFFF;
+	position: absolute;
+	margin-top: 2px;
+	top:100px;
+	width: 100%;
+	height: 90%;
+	background-color: #FFFFFF;
 }
 
 .deco {
-position: absolute;
-background-color: #FFFFFF;
-display: none;
-width: 100%;
-height: 150px;
+	position: absolute;
+	background-color: #FFFFFF;
+	display: none;
+	width: 100%;
+	height: 150px;
 }
 
 .working {
-position: absolute;
-background-color: #FFFFFF;
-display: none;
-width: 100%;
-height: 150px;
+	position: absolute;
+	background-color: #FFFFFF;
+	display: none;
+	width: 100%;
+	height: 150px;
 }
 
 .titre	 {font-family: "Verdana"; font-size: 12px; color: #99CCCC; font-weight: bolder; }
@@ -126,11 +122,11 @@ height: 150px;
 }
 
 .periode{
- font-size: 1em;
+	font-size: 1em;
 }
 
 .end{
- border-top: 1px solid black;
+	border-top: 1px solid black;
 }
 
 .tbtitle{
