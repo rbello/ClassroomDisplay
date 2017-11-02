@@ -46,9 +46,21 @@ interface CAD {
 	 *
 	 * @param $racineAnalytiqueEtablissement string La racine analytique sur 2 caractères de l'établissement.
 	 * @param $date string La date voulue, au format 'DD/MM/YYYY'.
+	 * @return array
 	 */
-	public function getClassRoomsBookings($racineAnalytiqueEtablissement, $date);
-	
+	public function getEtablissementBookings($racineAnalytiqueEtablissement, $date);
+
+	/**
+	 * Renvoie la liste des réservations pour un profile donné. Le format de données est le même que la
+	 * fonction getEtablissementBookings.
+	 * 
+	 * @param $profile array Le contenu de la variable $_PROFILE.
+	 * @param $date string La date voulue, au format 'DD/MM/YYYY'.
+	 * @return array
+	 * @see CAD::getEtablissementBookings()
+	 */
+	public function getProfileBookings($profile, $date);
+
 }
 
 class CSVDataReader implements CAD {
@@ -57,8 +69,13 @@ class CSVDataReader implements CAD {
 		return self::parseCsvFile(dirname(__FILE__) . '/../data/ListeSalles2017.csv');
 	}
 
-	public function getClassRoomsBookings($racineAnalytiqueEtablissement, $date) {
+	public function getEtablissementBookings($racineAnalytiqueEtablissement, $date) {
 		return self::parseCsvFile(dirname(__FILE__) . '/../data/ExempleJeuDeDonneesSeances.csv');
+	}
+
+	public function getProfileBookings($profile, $date) {
+		$data = $this->getEtablissementBookings($profile['codeEtablissement'], $date);
+		return $data;
 	}
 
 	private static function parseCsvFile($path) {
@@ -80,18 +97,18 @@ class CSVDataReader implements CAD {
 
 }
 
-class FNG implements CAD {
+/*class FNG implements CAD {
 
 	public function getClassRoomsList() {
 		$file = dirname(__FILE__) . '/../data/ListeSalles.sql';
 		$sql = file_get_contents($file);
 	}
 
-	public function getClassRoomsBookings($racineAnalytiqueEtablissement, $date) {
+	public function getEtablissementBookings($racineAnalytiqueEtablissement, $date) {
 		$file = dirname(__FILE__) . '/../data/ListeSeances.sql';
 		$sql = file_get_contents($file);
 		$sql = str_replace('{Racine analytique etablissement,Chaine,NULL}', "'{$racineAnalytiqueEtablissement}'", $sql);
 		$sql = str_replace('{Date (JJ/MM/AAAA),Chaine,NULL}', "'{$date}'", $sql);
 	}
 
-}
+}*/

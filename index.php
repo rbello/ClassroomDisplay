@@ -16,8 +16,11 @@ if (!file_exists($profileFile)) {
 	return;
 }
 
+// Setup profile
 $_PROFILE = include $profileFile;
+$_PROFILE['name'] = str_replace('.', '', $_GET['profile']);
 
+// Include theme index
 include 'themes/' . $_CONFIG['theme'] . '/index.php';
 
 return;

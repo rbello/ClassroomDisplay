@@ -14,7 +14,7 @@ h2 {
 	font-weight: bolder;
 }
 
-.conteneur {
+.container {
 	width: 100%;
 	height: 100%;
 	background-color: #FFF;
@@ -28,27 +28,18 @@ h2 {
 	background: #a1a2a4;
 }
 
-.Zone2 {
-	position: absolute;
-	top:0;
-	width:100%;
-	height:10px;
-	background: #eeeeee;
-	border-top: 1px solid #fff
-}
-
-.Zone3 {
+.header {
 	position: absolute;
 	top: 0;
-	width:100%;
+	width: 100%;
 	height: 77px;
 	background: #fff;
-	background-image:url(HautBackground.png);
+	background-image: url(HautBackground.png);
 }
 
 .Zone4 {
 	position: absolute;
-	top:80px;
+	top: 80px;
 	width: 100%;
 	height: 21px;
 	background-color: #a1a2a4;
@@ -68,167 +59,47 @@ h2 {
 .frame {
 	position: absolute;
 	margin-top: 2px;
-	top:100px;
+	top: 100px;
 	width: 100%;
-	height: 90%;
 	background-color: #FFFFFF;
 }
 
-.deco {
+#error {
 	position: absolute;
-	background-color: #FFFFFF;
+	right: 5px;
+	bottom: 5px;
+	color: red;
 	display: none;
-	width: 100%;
-	height: 150px;
 }
 
-.working {
+#loading {
 	position: absolute;
-	background-color: #FFFFFF;
+	top: 5px;
+	left: 5px;
 	display: none;
-	width: 100%;
-	height: 150px;
 }
 
-.titre	 {font-family: "Verdana"; font-size: 12px; color: #99CCCC; font-weight: bolder; }
-
-.texte {font-family: "Verdana"; font-size: 12px; color: #000000; font-weight: normal; }
-
-.kwartz {font-family: "Verdana"; font-size: 9px; color: #999999; font-weight: normal; }
-
-.tb_planning th{
-	/* border-bottom: 1px solid black;  */
-	padding-bottom: 5px;
-}
-
-.session{
-	font-size : 1.2em;
-	font-weight: bolder;
-	color: black;
-}
-
-.salles{
-	font-size : 1.2em;
-	font-weight: bolder;
-	color: black;
-}
-
-.matiere{
-
-}
-
-.intervenant{
-
-}
-
-.periode{
-	font-size: 1em;
-}
-
-.end{
-	border-top: 1px solid black;
-}
-
-.tbtitle{
-	text-align: right;
-	vertical-align:text-top;
-}
-
-.admintable{
-	margin-top: 5px;
-	width: 100%;
-}
-
-.adminmenu{
+#table-header {
+	text-align: left;
+	padding: 0 10px;
 	border-bottom: 1px solid black;
-	font-size: 10px;
-	padding-left: 10px;
-	padding-right: 10px;
-	text-align: center;
 }
 
-.adminmenuselected{
-	border-top: 1px solid black;
-	border-right: 1px solid black;
-	border-left: 1px solid black;
-	padding-left: 10px;
-	padding-right: 10px;
-	font-size: 10px;
-	text-align: center;
-	background-color: lightgrey;
+#table-body {
+	padding: 0 10px;
 }
 
-.admintbbody{
-	border-right: 1px solid black;
-	border-left: 1px solid black;
-	border-bottom: 1px solid black;
-	background-color: lightgrey;
+#table-body td {
+	border-top: 1px solid #ccc;
+	height: 25px;
 }
 
-.adminmenu a, .adminmenuselected a{
-	text-decoration: none;
-	color: blue;
+#viewport {
+	overflow-y: hidden;
 }
 
-.logindiv{
-	text-align: center;
-}
-
-.adminfont td{
-
-}
-
-.tbpub{
-	width: 100%;
-}
-
-.tbpub tr.d1 td{
-	background-color: white;
-}
-
-.tbpub tr.d2 td{
-	background-color: #99CCCC;
-}
-
-.tbpub td{
-	border: 1px solid black;
-}
-
-.tbaddpub{
-	background-color: white;
-	width: 40%;
-	border: 1px solid black;
-}
-
-.tbaddpubhead{
-	text-align: right;
-	vertical-align: top;
-	font-weight: bold;
-}
-
-.msginfo{
-	width: 98%;
-	margin: 15px;
-	border: 3px dashed blue;
-	background-color: lightblue;
-	padding: 10px;
-	padding-left: 40px;
-}
-
-.msgerror{
-	width: 98%;
-	margin: 15px;
-	border: 3px dashed red;
-	background-color: #FFCCCC;
-	padding: 10px;
-	padding-left: 40px;
-	font-weight: bold;
-}
-
-.tbusers{
-	width: 100%;
-}
-
-.tbusers td{
-	border: 1px solid black;
-}
+.calendar tr td:nth-child(1), .calendar tr th:nth-child(1) { width: 32%; }
+.calendar tr td:nth-child(2), .calendar tr th:nth-child(2) { width: 12%; }
+.calendar tr td:nth-child(3), .calendar tr th:nth-child(3) { width: 28%; }
+.calendar tr td:nth-child(4), .calendar tr th:nth-child(4) { width: 20%; }
+.calendar tr td:nth-child(5), .calendar tr th:nth-child(5) { width: 8%; }
