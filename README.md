@@ -1,4 +1,4 @@
-# ClassroomDisplay
+# Classroom Display
 
 Ce projet est un afficheur de salle pour un centre de formation.
 
