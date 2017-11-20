@@ -4,6 +4,8 @@ Ce projet est un afficheur de salle pour un centre de formation.
 
 ## Configuration
 
+Cette application utilise PHP (version 5.2 minimum) uniquement. Elle est faite pour tourner sur Apache ou sur Microsoft IIS (avec l'extension PHP). Le module de réécriture d'URL doit être installé également (sous Apache il s'agit du module `mod_rewrite`).
+
 La configuration de l'afficheur se fait au travers d'un fichier de configuration présent dans le répertoire `config`. Ce répertoire contient par défaut un fichier nommé `default.config.php` et qui est utilisé par défaut. Ce fichier ne doit pas être modifié directement : il faut le dupliquer et nommer la copie `production.config.php`. C'est ce fichier qui pourra ensuite être modifié, et qui contient les informations générales pour le programme :
 - Le thème utilisé pour l'affichage graphique
 - Le mode `debug` qui active les messages d'erreur
