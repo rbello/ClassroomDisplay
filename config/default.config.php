@@ -5,12 +5,12 @@ return array(
     'debug'        => true,
     /* Choix du thème */
     'theme'        => 'classic',
-    /* Choix de la source d'accès aux données */
-    'cad'          => 'MicrosoftSQLServer',
+    /* Choix de la source d'accès aux données (SampleData, MicrosoftSQLServer) */
+    'cad'          => 'SampleData',
     
     /* Configuration de l'accès à la source de données */
-    'sql_host'     => 'BDDCOM',
-    'sql_user'     => 'afficheur',
-    'sql_password' => '',
-    'sql_database' => 'FNG'
+    'cad_host'     => 'BDDCOM',
+    'cad_user'     => 'afficheur',
+    'cad_password' => '',
+    'cad_database' => 'FNG'
 );

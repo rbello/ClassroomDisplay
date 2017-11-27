@@ -159,3 +159,19 @@ body {
     width: 42rem;
   }
 }
+
+span.success,
+span.failure {
+    color: white;
+    border-radius: 4px;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+    padding: 0 4px;
+}
+
+.success {
+    background: rgb(28, 184, 65); /* this is a green */
+}
+
+.failure {
+    background: rgb(202, 60, 60); /* this is a maroon */
+}

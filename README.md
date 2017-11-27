@@ -14,7 +14,7 @@ Les sources doivent être installées dans le répertoire des sites web :
 - Sur linux, ce répertoire est par convention `/var/www/` (il faut donc créer un sous-répertoire à l'intérieur)
 - Sur Windows, ce répertoire est choisi au moment de la création du site
 
-Plus de détails sur la création d'un [site web sur IIS](https://msdn.microsoft.com/fr-fr/library/bb763173(v=vs.100).aspx) et la configuration du [module PDO](https://www.vulgarisation-informatique.com/pdo-php-mssql.php).
+Plus de détails sur la création d'un [site web sur IIS](https://msdn.microsoft.com/fr-fr/library/bb763173(v=vs.100).aspx) et la configuration du [module PDO](https://www.vulgarisation-informatique.com/pdo-php-mssql.php). Sur Linux/Apache le module PDO doit être activé dans le fichier de configuration .ini au niveau du module `extension=php_pdo_sqlsrv_XX_ts` (avec XX la numéro de version de PHP, par exemple 53 pour PHP 5.3).
 
 ## Configuration
 
@@ -31,10 +31,10 @@ return array(
     'debug'        => true,
     'theme'        => 'classic',
     'cad'          => 'MicrosoftSQLServer'
-    'sql_host'     => 'BDDCOM',
-    'sql_user'     => 'afficheur',
-    'sql_password' => '',
-    'sql_database' => 'FNG'
+    'cad_host'     => 'BDDCOM',
+    'cad_user'     => 'afficheur',
+    'cad_password' => '',
+    'cad_database' => 'FNG'
 );
 ```
 
@@ -60,6 +60,19 @@ La liste des salles et leurs IDs peut être obtenue grâce à la page `/rooms.ph
 ## Utilisation
 
 Affichage des réservations pour un profile donné : `http://mon-serveur/<Profile>` (sans le slash final)
+
+## Deboggage
+
+Voici les codes d'erreurs renvoyés par l'application notamment la page `data.php` qui sert d'API JSON.
+
+Code | Erreur | Explication
+--- | --- | ---
+204 | No Content | La requête à la source de données n'a renvoyé aucun résultat
+400 | Bad Request | La requête doit être réalisée avec ma méthode GET
+400 | Bad Request | Un paramètre d'URL HTTP GET nommé `profile` doit être renseigné
+404 | Not Found | Le profile donné n'a pas été trouvé dans la configuration
+500 | Internal Error | Erreur interne au serveur (initialisation de la CAD notamment)
+501 | Not Implemented | Le type de CAD configuré n'existe pas
 
 ## Evolution
 

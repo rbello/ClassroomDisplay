@@ -63,7 +63,7 @@ interface CAD {
 
 }
 
-class CSVDataReader implements CAD {
+class SampleData implements CAD {
 
 	public function getClassRoomsList() {
 		return self::parseCsvFile(dirname(__FILE__) . '/../data/ListeSalles2017.csv');
@@ -106,9 +106,20 @@ class CSVDataReader implements CAD {
 
 class MicrosoftSQLServer implements CAD {
 
+	private $connexion;
+
+	public function __construct() {
+		global $_CONFIG;
+		$this->connexion = new PDO(
+			'sqlsrv:Server=' . $_CONFIG['cad_host'] . ';Database=' . $_CONFIG['cad_database'],
+			$_CONFIG['cad_user'], $_CONFIG['cad_password']);
+		$this->connexion->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+	}
+
 	public function getClassRoomsList() {
 		$file = dirname(__FILE__) . '/../data/ListeSalles.sql';
 		$sql = file_get_contents($file);
+		return self::executeSQL($sql);
 	}
 
 	public function getEtablissementBookings($racineAnalytiqueEtablissement, $date) {
@@ -116,9 +127,29 @@ class MicrosoftSQLServer implements CAD {
 		$sql = file_get_contents($file);
 		$sql = str_replace('{Racine analytique etablissement,Chaine,NULL}', "'{$racineAnalytiqueEtablissement}'", $sql);
 		$sql = str_replace('{Date (JJ/MM/AAAA),Chaine,NULL}', "'{$date}'", $sql);
+		return self::executeSQL($sql);
 	}
-	
+
 	public function getProfileBookings($profile, $date) {
+		$data = $this->getEtablissementBookings($profile['codeEtablissement'], $date);
+		$rooms = explode(' ', $profile['salles']);
+		$result = array();
+		foreach ($data as $key => $item) {
+			if (in_array("{$item['CodeSalle']}", $rooms)) {
+				$result[] = $item;
+			}
+		}
+		return $result;
+	}
+
+	private static function executeSQL($sql) {
+		$query = $this->connexion->prepare($sql);
+		$query->execute();
+		$results = array();
+		while ($r = $query->fetch()) {
+			$results[] = $r;
+		}
+		return $results;
 	}
 
 }

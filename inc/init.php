@@ -85,10 +85,13 @@ function error($code, $output = 'html') {
     exit();
 }
 
-require_once('inc/cad.php');
-
-if (!class_exists($_CONFIG['cad'])) {
-    error(501);
+try {
+    require_once('inc/cad.php');
+    if (!class_exists($_CONFIG['cad'])) {
+        error(501);
+    }
+    $_CAD = new $_CONFIG['cad'];
 }
-
-$_CAD = new $_CONFIG['cad'];
+catch (\Exception $ex) {
+    $_CAD = null;
+}

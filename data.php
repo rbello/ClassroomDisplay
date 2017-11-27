@@ -25,7 +25,7 @@ header('Content-type: application/json');
 $data = $_CAD->getProfileBookings($_PROFILE, $date);
 
 if (is_null($data)) {
-    error(503, 'json');
+    error(204, 'json');
 }
 
 echo json_encode(array('rsp' => 'ok', 'data' => $data));
