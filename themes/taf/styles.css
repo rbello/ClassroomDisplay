@@ -4,7 +4,24 @@
 	http://gampleman.eu/post/1488470623/designing-a-departures-board-with-css3
 */
 
+body {
+	height: 100%;
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
 
+#top {
+	/* Firefox */
+	height: -moz-calc(100% - 50px);
+	/* WebKit */
+	height: -webkit-calc(100% - 50px);
+	/* Opera */
+	height: -o-calc(100% - 50px);
+	/* Standard */
+	height: calc(100% - 50px);
+	background: red;
+}
 
 
 .departure-board {

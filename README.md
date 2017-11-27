@@ -2,9 +2,21 @@
 
 Ce projet est un afficheur de salle pour un centre de formation.
 
-## Configuration
+## Pré-requis
 
-Cette application utilise PHP (version 5.2 minimum) uniquement. Elle est faite pour tourner sur Apache ou sur Microsoft IIS (avec l'extension PHP). Le module de réécriture d'URL doit être installé également (sous Apache il s'agit du module `mod_rewrite`).
+Les composants logiciels suivants doivent être installés :
+- Serveur HTTP (Apache sous linux, IIS sous Windows)
+- PHP (version 5.2 minimum)
+- Module HTTP de réécritude d'URL (sous Apache il s'agit du module `mod_rewrite`, sous Windows une option à cocher)
+- Module PDO pour PHP pour l'accès à SQL Server intitulé `PDO_SQLSRV` (disponible [ici](https://www.microsoft.com/en-us/download/details.aspx?id=20098))
+
+Les sources doivent être installées dans le répertoire des sites web :
+- Sur linux, ce répertoire est par convention `/var/www/` (il faut donc créer un sous-répertoire à l'intérieur)
+- Sur Windows, ce répertoire est choisi au moment de la création du site
+
+Plus de détails sur la création d'un [site web sur IIS](https://msdn.microsoft.com/fr-fr/library/bb763173(v=vs.100).aspx) et la configuration du [module PDO](https://www.vulgarisation-informatique.com/pdo-php-mssql.php).
+
+## Configuration
 
 La configuration de l'afficheur se fait au travers d'un fichier de configuration présent dans le répertoire `config`. Ce répertoire contient par défaut un fichier nommé `default.config.php` et qui est utilisé par défaut. Ce fichier ne doit pas être modifié directement : il faut le dupliquer et nommer la copie `production.config.php`. C'est ce fichier qui pourra ensuite être modifié, et qui contient les informations générales pour le programme :
 - Le thème utilisé pour l'affichage graphique

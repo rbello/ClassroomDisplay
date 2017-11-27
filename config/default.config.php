@@ -2,5 +2,5 @@
 
 return array(
     'debug' => true,
-    'theme' => 'classic'
+    'theme' => 'block'
 );
