@@ -30,6 +30,7 @@ Voici un exemple de configuration :
 return array(
     'debug'        => true,
     'theme'        => 'classic',
+    'cad'          => 'MicrosoftSQLServer'
     'sql_host'     => 'BDDCOM',
     'sql_user'     => 'afficheur',
     'sql_password' => '',

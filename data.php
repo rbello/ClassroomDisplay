@@ -23,4 +23,9 @@ $_PROFILE['name'] = str_replace('.', '', $_GET['profile']);
 // Send response as JSON
 header('Content-type: application/json');
 $data = $_CAD->getProfileBookings($_PROFILE, $date);
+
+if (is_null($data)) {
+    error(503, 'json');
+}
+
 echo json_encode(array('rsp' => 'ok', 'data' => $data));

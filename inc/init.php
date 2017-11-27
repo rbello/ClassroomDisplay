@@ -4,10 +4,6 @@ $_CONFIG = include('inc/config.php');
 
 error_reporting($_CONFIG['debug'] ? E_ALL : 0);
 
-require_once('inc/cad.php');
-
-$_CAD = $_CONFIG['debug'] ? new CSVDataReader() : new FNG();
-
 function error($code, $output = 'html') {
     $status_codes = array (
         100 => 'Continue',
@@ -88,3 +84,11 @@ function error($code, $output = 'html') {
     }
     exit();
 }
+
+require_once('inc/cad.php');
+
+if (!class_exists($_CONFIG['cad'])) {
+    error(501);
+}
+
+$_CAD = new $_CONFIG['cad'];

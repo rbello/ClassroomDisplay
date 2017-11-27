@@ -104,7 +104,7 @@ class CSVDataReader implements CAD {
 
 }
 
-/*class FNG implements CAD {
+class MicrosoftSQLServer implements CAD {
 
 	public function getClassRoomsList() {
 		$file = dirname(__FILE__) . '/../data/ListeSalles.sql';
@@ -117,5 +117,8 @@ class CSVDataReader implements CAD {
 		$sql = str_replace('{Racine analytique etablissement,Chaine,NULL}', "'{$racineAnalytiqueEtablissement}'", $sql);
 		$sql = str_replace('{Date (JJ/MM/AAAA),Chaine,NULL}', "'{$date}'", $sql);
 	}
+	
+	public function getProfileBookings($profile, $date) {
+	}
 
-}*/
+}
