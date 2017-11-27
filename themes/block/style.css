@@ -1,0 +1,53 @@
+.page-footer{
+	padding-top: 0px !important;
+}
+
+#logo{
+	background-color: white;
+	max-height: 102px;
+	max-width: 245px;
+}
+
+.footerData{
+	margin-left: 0px !important;
+}
+
+.footer-copyright{
+  margin-bottom: -30px !important;
+}
+
+#horloge{
+  margin-top: 10px !important;
+  margin-bottom: -20px !important;
+}
+
+#weatherImage{
+  padding-top: 18px !important;
+}
+
+.bordered{
+  border-color: black;
+  border-style: solid;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.
+
+.card-content{
+  padding: 15px;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
+  nav{
+  	height: 102px !important;
+  }
